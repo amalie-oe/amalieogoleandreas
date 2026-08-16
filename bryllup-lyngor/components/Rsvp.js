@@ -1,7 +1,7 @@
 // Lim inn embed-lenken til skjemaet ditt her (Google Form eller Tally).
 // Google Form: Åpne skjema -> Send -> ikonet </> -> kopier src-lenken fra iframe.
 // Tally: Share -> Embed -> kopier lenken.
-const FORM_EMBED_URL = ""; // f.eks. "https://docs.google.com/forms/d/e/XXXX/viewform?embedded=true"
+const FORM_EMBED_URL = "https://docs.google.com/forms/d/e/1FAIpQLScWxwnkozMl5HpWwNmY-A4j72CDyZP9us5Iak4DM55zShyMaw/viewform?usp=dialog"; // f.eks. "https://docs.google.com/forms/d/e/XXXX/viewform?embedded=true"
 
 export default function Rsvp() {
   return (
