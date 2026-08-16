@@ -395,7 +395,7 @@ function Hero() {
                 className: "relative z-10 flex flex-col items-center text-center",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                        className: "mt-4 heading text-5xl leading-tight md:text-5xl",
+                        className: "mt-4 heading text-2xl leading-tight md:text-7xl",
                         children: [
                             "Amalie",
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -925,7 +925,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist
 // Lim inn embed-lenken til skjemaet ditt her (Google Form eller Tally).
 // Google Form: Åpne skjema -> Send -> ikonet </> -> kopier src-lenken fra iframe.
 // Tally: Share -> Embed -> kopier lenken.
-const FORM_EMBED_URL = ""; // f.eks. "https://docs.google.com/forms/d/e/XXXX/viewform?embedded=true"
+const FORM_EMBED_URL = "https://docs.google.com/forms/d/e/1FAIpQLScWxwnkozMl5HpWwNmY-A4j72CDyZP9us5Iak4DM55zShyMaw/viewform?usp=dialog"; // f.eks. "https://docs.google.com/forms/d/e/XXXX/viewform?embedded=true"
 function Rsvp() {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
         id: "rsvp",
@@ -942,7 +942,7 @@ function Rsvp() {
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                    className: "mt-3 heading text-4xl text-steel md:text-5xl",
+                    className: "mt-3 heading text-3xl text-steel md:text-5xl",
                     children: "RSVP"
                 }, void 0, false, {
                     fileName: "[project]/components/Rsvp.js",
@@ -959,52 +959,16 @@ function Rsvp() {
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: "mt-12",
-                    children: ("TURBOPACK compile-time falsy", 0) ? "TURBOPACK unreachable" : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "rounded-lg border-2 border-dashed border-slate/50 bg-mist/60 p-12 text-slate",
-                        children: [
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                className: "font-display text-2xl text-steel",
-                                children: "Skjema kommer her"
-                            }, void 0, false, {
-                                fileName: "[project]/components/Rsvp.js",
-                                lineNumber: 28,
-                                columnNumber: 15
-                            }, this),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                className: "mt-3 text-sm",
-                                children: [
-                                    "Lim inn embed-lenken din i variabelen",
-                                    " ",
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("code", {
-                                        className: "rounded bg-white px-1 py-0.5 text-steel",
-                                        children: "FORM_EMBED_URL"
-                                    }, void 0, false, {
-                                        fileName: "[project]/components/Rsvp.js",
-                                        lineNumber: 33,
-                                        columnNumber: 17
-                                    }, this),
-                                    " ",
-                                    "i filen ",
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("code", {
-                                        children: "components/Rsvp.js"
-                                    }, void 0, false, {
-                                        fileName: "[project]/components/Rsvp.js",
-                                        lineNumber: 36,
-                                        columnNumber: 25
-                                    }, this),
-                                    "."
-                                ]
-                            }, void 0, true, {
-                                fileName: "[project]/components/Rsvp.js",
-                                lineNumber: 31,
-                                columnNumber: 15
-                            }, this)
-                        ]
-                    }, void 0, true, {
+                    children: ("TURBOPACK compile-time truthy", 1) ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("iframe", {
+                        src: FORM_EMBED_URL,
+                        title: "RSVP-skjema",
+                        className: "h-[900px] w-full rounded-lg border border-stone",
+                        children: "Laster skjema…"
+                    }, void 0, false, {
                         fileName: "[project]/components/Rsvp.js",
-                        lineNumber: 27,
+                        lineNumber: 19,
                         columnNumber: 13
-                    }, this)
+                    }, this) : "TURBOPACK unreachable"
                 }, void 0, false, {
                     fileName: "[project]/components/Rsvp.js",
                     lineNumber: 17,

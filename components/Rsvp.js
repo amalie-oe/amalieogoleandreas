@@ -1,14 +1,14 @@
 // Lim inn embed-lenken til skjemaet ditt her (Google Form eller Tally).
 // Google Form: Åpne skjema -> Send -> ikonet </> -> kopier src-lenken fra iframe.
 // Tally: Share -> Embed -> kopier lenken.
-const FORM_EMBED_URL = ""; // f.eks. "https://docs.google.com/forms/d/e/XXXX/viewform?embedded=true"
+const FORM_EMBED_URL = "https://docs.google.com/forms/d/e/1FAIpQLScWxwnkozMl5HpWwNmY-A4j72CDyZP9us5Iak4DM55zShyMaw/viewform?usp=dialog"; // f.eks. "https://docs.google.com/forms/d/e/XXXX/viewform?embedded=true"
 
 export default function Rsvp() {
   return (
     <section id="rsvp" className="section-padding bg-linen">
       <div className="mx-auto max-w-2xl text-center">
         <p className="eyebrow">Gi oss beskjed</p>
-        <h2 className="mt-3 heading text-4xl text-steel md:text-5xl">RSVP</h2>
+        <h2 className="mt-3 heading text-3xl text-steel md:text-5xl">RSVP</h2>
         <p className="mx-auto mt-4 max-w-xl text-sm leading-relaxed text-slate">
           Vi setter stor pris på om du svarer innen (placeholder dato). Fyll ut
           skjemaet under.
