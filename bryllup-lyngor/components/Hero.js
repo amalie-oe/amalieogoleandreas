@@ -13,9 +13,10 @@ export default function Hero() {
         <Lighthouse />
       </div> */}
 
-      <Lighthouse />
+      
 
       <div className="relative z-10 flex flex-col items-center text-center">
+        <Lighthouse />
         <p className="eyebrow text-stone">Vi skal gifte oss</p>
         <h1 className="mt-4 heading text-5xl leading-tight md:text-7xl">
           Amalie
