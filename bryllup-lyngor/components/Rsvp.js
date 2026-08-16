@@ -1,0 +1,44 @@
+// Lim inn embed-lenken til skjemaet ditt her (Google Form eller Tally).
+// Google Form: Åpne skjema -> Send -> ikonet </> -> kopier src-lenken fra iframe.
+// Tally: Share -> Embed -> kopier lenken.
+const FORM_EMBED_URL = ""; // f.eks. "https://docs.google.com/forms/d/e/XXXX/viewform?embedded=true"
+
+export default function Rsvp() {
+  return (
+    <section id="rsvp" className="section-padding bg-linen">
+      <div className="mx-auto max-w-2xl text-center">
+        <p className="eyebrow">Gi oss beskjed</p>
+        <h2 className="mt-3 heading text-4xl text-steel md:text-5xl">RSVP</h2>
+        <p className="mx-auto mt-4 max-w-xl text-sm leading-relaxed text-slate">
+          Vi setter stor pris på om du svarer innen (placeholder dato). Fyll ut
+          skjemaet under.
+        </p>
+
+        <div className="mt-12">
+          {FORM_EMBED_URL ? (
+            <iframe
+              src={FORM_EMBED_URL}
+              title="RSVP-skjema"
+              className="h-[900px] w-full rounded-lg border border-stone"
+            >
+              Laster skjema&hellip;
+            </iframe>
+          ) : (
+            <div className="rounded-lg border-2 border-dashed border-slate/50 bg-mist/60 p-12 text-slate">
+              <p className="font-display text-2xl text-steel">
+                Skjema kommer her
+              </p>
+              <p className="mt-3 text-sm">
+                Lim inn embed-lenken din i variabelen{" "}
+                <code className="rounded bg-white px-1 py-0.5 text-steel">
+                  FORM_EMBED_URL
+                </code>{" "}
+                i filen <code>components/Rsvp.js</code>.
+              </p>
+            </div>
+          )}
+        </div>
+      </div>
+    </section>
+  );
+}
