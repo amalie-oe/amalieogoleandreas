@@ -177,7 +177,7 @@ function Lighthouse() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ellipse", {
-                cx: "665.4",
+                cx: "663.4",
                 cy: "464.8",
                 rx: "29.2",
                 ry: "16.8",

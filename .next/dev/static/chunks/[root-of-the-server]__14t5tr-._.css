@@ -878,6 +878,10 @@ img, video {
   overflow: hidden;
 }
 
+.whitespace-nowrap {
+  white-space: nowrap;
+}
+
 .rounded {
   border-radius: .25rem;
 }
