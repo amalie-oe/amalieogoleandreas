@@ -12,7 +12,7 @@ export default function Hero() {
       <Lighthouse />
 
       <div className="relative z-10 flex flex-col items-center text-center">
-        <h1 className="mt-4 heading text-5xl leading-tight md:text-7xl">
+        <h1 className="mt-4 heading text-5xl leading-tight md:text-5xl">
           Amalie
           <span className="mx-3 font-light text-stone">&amp;</span>
           Ole Andreas
