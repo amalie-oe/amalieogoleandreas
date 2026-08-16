@@ -9,15 +9,10 @@ export default function Hero() {
       <div className="absolute inset-0 bg-gradient-to-b from-steel/60 via-navy to-navy" />
       <div className="absolute inset-0 opacity-30 [background-image:radial-gradient(circle_at_50%_15%,#67717E_0,transparent_45%)]" />
 
-      {/* <div className="pointer-events-none absolute inset-x-0 top-0 h-[62%]">
-        <Lighthouse />
-      </div> */}
-
+      <Lighthouse />
       
 
       <div className="relative z-10 flex flex-col items-center text-center">
-        <Lighthouse />
-        <p className="eyebrow text-stone">Vi skal gifte oss</p>
         <h1 className="mt-4 heading text-5xl leading-tight md:text-7xl">
           Amalie
           <span className="mx-3 font-light text-stone">&amp;</span>
@@ -32,13 +27,6 @@ export default function Hero() {
         <p className="mt-3 text-sm uppercase tracking-[0.3em] text-stone">
           Lyngør
         </p>
-
-        <a
-          href="#rsvp"
-          className="mt-12 inline-block rounded-full border border-mist/70 px-10 py-3 text-xs uppercase tracking-[0.3em] transition-colors hover:bg-mist hover:text-navy"
-        >
-          RSVP
-        </a>
       </div>
     </section>
   );
