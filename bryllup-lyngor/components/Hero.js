@@ -9,9 +9,9 @@ export default function Hero() {
       <div className="absolute inset-0 bg-gradient-to-b from-steel/60 via-navy to-navy" />
       <div className="absolute inset-0 opacity-30 [background-image:radial-gradient(circle_at_50%_15%,#67717E_0,transparent_45%)]" />
 
-      <div className="pointer-events-none absolute inset-x-0 top-0 h-[62%]">
+      //<div className="pointer-events-none absolute inset-x-0 top-0 h-[62%]">
         <Lighthouse />
-      </div>
+      //</div>
 
       <div className="relative z-10 flex flex-col items-center text-center">
         <p className="eyebrow text-stone">Vi skal gifte oss</p>
