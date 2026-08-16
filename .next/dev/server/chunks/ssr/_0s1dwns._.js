@@ -164,10 +164,10 @@ function Lighthouse() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("ellipse", {
-                cx: "555.2",
-                cy: "464.8",
-                rx: "42",
-                ry: "16.8",
+                cx: "552.2",
+                cy: "469.8",
+                rx: "52",
+                ry: "23.8",
                 fill: "#67717E"
             }, void 0, false, {
                 fileName: "[project]/components/Lighthouse.js",
@@ -175,9 +175,9 @@ function Lighthouse() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("ellipse", {
-                cx: "650.4",
+                cx: "665.4",
                 cy: "464.8",
-                rx: "39.2",
+                rx: "29.2",
                 ry: "16.8",
                 fill: "#67717E"
             }, void 0, false, {
