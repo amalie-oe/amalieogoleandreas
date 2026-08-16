@@ -12,7 +12,6 @@ export default function Hero() {
       <Lighthouse />
 
       <div className="relative z-10 flex flex-col items-center text-center">
-        <p className="eyebrow text-stone">Vi skal gifte oss</p>
         <h1 className="mt-4 heading text-5xl leading-tight md:text-7xl">
           Amalie
           <span className="mx-3 font-light text-stone">&amp;</span>
@@ -27,13 +26,6 @@ export default function Hero() {
         <p className="mt-3 text-sm uppercase tracking-[0.3em] text-stone">
           Lyngør
         </p>
-
-        <a
-          href="#rsvp"
-          className="mt-12 inline-block rounded-full border border-mist/70 px-10 py-3 text-xs uppercase tracking-[0.3em] transition-colors hover:bg-mist hover:text-navy"
-        >
-          RSVP
-        </a>
       </div>
     </section>
   );
