@@ -14,13 +14,13 @@ export default function Hero() {
       <div className="relative z-10 flex flex-col items-center text-center">
        <h1 className="heading text-4xl leading-tight md:text-7xl"> 
           <span className="whitespace-nowrap"> 
-            Amalie<span className="mx-3 font-light text-stone">&amp;</span> 
+            Amalie<span className="mx-3 mt-8 font-light text-stone">&amp;</span> 
           </span> 
           <wbr /> 
           <span className="whitespace-nowrap">Ole Andreas</span> 
         </h1>
 
-        <div className="mx-auto mt-8 flex max-w-md items-center justify-center gap-4">
+        <div className="mx-auto mt-6 flex max-w-md items-center justify-center gap-4">
           <span className="h-px flex-1 bg-mist/40" />
           <p className="text-sm uppercase tracking-[0.3em]">6.-8. august</p>
           <span className="h-px flex-1 bg-mist/40" />
