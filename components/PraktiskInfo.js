@@ -1,27 +1,27 @@
 const faqs = [
   {
-    q: "Hvordan kommer jeg meg til Lyngør?",
-    a: "Lyngør er en øy uten bilvei. Kjør til Gjeving og ta båt/vannbuss ut til Lyngør. Detaljert reisebeskrivelse og båttider legges ut her (placeholder).",
+    q: "Hvordan kommer jeg meg til Lyngørporten?",
+    a: "Vi anbefaler å komme med bil, og det er god parkeringskapasitet ved hotellet. Ønsker du å komme med båt, kan båtplass avtales direkte med Lyngørporten Hotell. Det er også mulig å ta buss til Vinterkjær, men da må du selv sørge for transport videre til hotellet.",
   },
   {
-    q: "Hvor kan jeg parkere?",
-    a: "Det er parkering på fastlandet ved Gjeving brygge. Adresse og pris kommer (placeholder).",
+    q: "Hvor skal jeg bo?",
+    a: "Vi har booket hele Hotell Lyngørporten til bryllupshelgen. Informasjon om overnatting og betaling finner du i RSVP-skjemaet.",
   },
   {
-    q: "Hvor bor jeg?",
-    a: "Vi anbefaler overnatting på Lyngør eller i nærområdet. Forslag til hoteller, gjestehus og hytter kommer her (placeholder).",
+    q: "Hva er klesskoden?",
+    a: "Fredag: Sommerlig pent, f.eks. kjole og strikkegenser eller lignende. For herrene passer skjorte + chinos eller lindress fint. Lørdag: Smoking/mørk dress/lamg kjole.",
   },
   {
-    q: "Hva er kleskoden?",
-    a: "Penklær med et kystnært preg. Ta med behagelige sko for brygger og svaberg (placeholder).",
+    q: "Noe spesielt jeg bør pakke?",
+    a: "Store deler av helgen foregår ved vannet og utendørs. Vi anbefaler derfor å pakke klær tilpasset værmeldingen. Selv i august kan det bli litt kjølig på kvelden, så en strikkegenser, seiljakke eller lett vindjakke kan være god å ha med. Fredagens svabergspils foregår på brygger og svaberg, så flate sko kan være en fordel. Badetøy bør også med om man får lyst på en dukkert",
   },
   {
-    q: "Kan jeg ta med barn?",
-    a: "Gi oss beskjed i RSVP-skjemaet, så finner vi en løsning (placeholder).",
+    q: "Har du allergier eller andre behov vi bør kjenne til?",
+    a: "Gi beskjed i RSVP-skjemaet, så gjør vi vårt beste for å tilrettelegge.",
   },
   {
-    q: "Allergier og spesielle behov?",
-    a: "Noter det i RSVP-skjemaet, så tar vi hensyn til det (placeholder).",
+    q: "Ønsker du å holde tale eller bidra med et innslag?",
+    a: "Ta gjerne kontakt med vår toastmaster, Sven Ole, på XXX XX XXX",
   },
 ];
 
