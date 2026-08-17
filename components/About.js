@@ -24,18 +24,18 @@ const DressIcon = () => (
 const items = [
   {
     icon: <RingsIcon />,
-    title: "Vielsen",
-    text: "Vi gifter oss ute ved sjøen på Lyngør, med havluft og skjærgård som bakteppe. Intimt og kystnært (placeholder).",
+    title: "Overnatting",
+    text: "Vi har booket hele Hotell Lyngørporten til bryllupshelgen. Egenandelen for overnatting er 2 000 kr per person og inkluderer to netter på hotellet (fredag–søndag), frokost begge dager og matpakke lørdag. Vi sørger selvfølgelig for at du får bo sammen med din +1, eller med andre du kjenner godt. Informasjon om overnatting og betaling finner du i RSVP-skjemaet.",
   },
   {
     icon: <GlassIcon />,
-    title: "Festen",
-    text: "Middag og dans følger på (placeholder sted). God mat, gode taler og kanskje en overraskelse eller to.",
+    title: "Transport",
+    text: "Vi anbefaler å komme med bil, og det er parkering tilgjengelig ved hotellet. Kommer du med båt, kan båtplass avtales direkte med Lyngørporten Hotell. Det er også mulig å ta buss til Vinterkjær, men da må du selv sørge for transport videre til hotellet.",
   },
   {
     icon: <DressIcon />,
-    title: "Kleskode",
-    text: "Penklær med et kystnært preg. Ta med sko som takler brygger og svaberg (placeholder).",
+    title: "Taler og innslag",
+    text: "Ønsker du å holde tale eller bidra med et innslag i løpet av bryllupshelgen, kan du kontakt med vår toastmaster Sven Ole på XXX XX XXX.",
   },
 ];
 
