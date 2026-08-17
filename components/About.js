@@ -25,7 +25,7 @@ const items = [
   {
     icon: <RingsIcon />,
     title: "Overnatting",
-    text: "Vi har booket hele Hotell Lyngørporten til bryllupshelgen. Egenandelen for overnatting er 2 000 kr per person og inkluderer to netter på hotellet (fredag–søndag), frokost begge dager og matpakke lørdag. Vi sørger selvfølgelig for at du får bo sammen med din +1, eller med andre du kjenner godt. Informasjon om overnatting og betaling finner du i RSVP-skjemaet.",
+    text: "Vi har booket hele Hotell Lyngørporten til bryllupshelgen. Egenandelen for overnatting er 2000 kr per person og inkluderer to netter på hotellet (fredag–søndag), frokost begge dager og matpakke lørdag. Informasjon om overnatting og betaling finner du i RSVP-skjemaet.",
   },
   {
     icon: <GlassIcon />,
