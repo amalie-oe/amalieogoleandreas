@@ -30,7 +30,7 @@ export default function Hero() {
         </p>
         <a
           href="#rsvp"
-          className="mt-12 inline-block rounded-full border border-mist/70 px-10 py-3 text-xs uppercase tracking-[0.3em] transition-colors hover:bg-mist hover:text-navy"
+          className="mt-6 inline-block rounded-full border border-mist/70 px-10 py-3 text-xs uppercase tracking-[0.3em] transition-colors hover:bg-mist hover:text-navy"
         >
           RSVP
         </a>
