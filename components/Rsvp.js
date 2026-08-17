@@ -10,7 +10,7 @@ export default function Rsvp() {
         <p className="eyebrow">Gi oss beskjed</p>
         <h2 className="mt-3 heading text-3xl text-steel md:text-5xl">RSVP</h2>
         <p className="mx-auto mt-4 max-w-xl text-sm leading-relaxed text-slate">
-          Vi setter stor pris på om du svarer innen (placeholder dato). Fyll ut
+          Vi setter stor pris på om du svarer innen 15. Februar 2027 ved å fylle ut
           skjemaet under.
         </p>
 
