@@ -11,7 +11,7 @@ export default function Hero() {
 
       <Lighthouse />
 
-      <div className="relative mt-8 z-10 flex flex-col items-center text-center">
+      <div className="relative mt-40 z-10 flex flex-col items-center text-center">
        <h1 className="heading text-4xl leading-tight md:text-7xl"> 
           <span className="whitespace-nowrap"> 
             Amalie<span className="mx-3 font-light text-stone">&amp;</span> 
