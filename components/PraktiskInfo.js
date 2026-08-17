@@ -9,11 +9,11 @@ const faqs = [
   },
   {
     q: "Hva er klesskoden?",
-    a: "Fredag: Sommerlig pent, f.eks. kjole og strikkegenser eller lignende. For herrene passer skjorte + chinos eller lindress fint. Lørdag: Smoking/mørk dress/lamg kjole.",
+    a: "Fredag: Sommerlig pent, f.eks. kjole + strikkegenser, skjorte + chinos eller lindress. Lørdag: Smoking/mørk dress/lang kjole.",
   },
   {
     q: "Noe spesielt jeg bør pakke?",
-    a: "Store deler av helgen foregår ved vannet og utendørs. Vi anbefaler derfor å pakke klær tilpasset værmeldingen. Selv i august kan det bli litt kjølig på kvelden, så en strikkegenser, seiljakke eller lett vindjakke kan være god å ha med. Fredagens svabergspils foregår på brygger og svaberg, så flate sko kan være en fordel. Badetøy bør også med om man får lyst på en dukkert",
+    a: "Pakk for både sol og sørlandsvær. En strikkegenser og vindjakke kan være god å ha med når kvelden kommer, og badetøy hvis du får lyst på en dukkert. Til fredagens svabergspils anbefaler vi flate sko.",
   },
   {
     q: "Har du allergier eller andre behov vi bør kjenne til?",
