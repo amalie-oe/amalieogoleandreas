@@ -3,14 +3,19 @@ const days = [
     date: "Fredag 6. august",
     items: [
       {
-        time: "16:00",
+        time: "15:00",
         title: "Ankomst & innsjekk",
-        text: "Kom deg ut til Lyngør, finn deg til rette og nyt utsikten (placeholder).",
+        text: "Innsjekk på hoteller er tilgjengelig fra 15:00",
+      },
+      {
+        time: "17:00",
+        title: "Svabergspils",
+        text: "Hvis været tillater blir det svabergspils på hytta til Amalie. Vi ordner båttransport fra hotellet til Lyngør",
       },
       {
         time: "19:00",
-        title: "Velkomstmiddag",
-        text: "Uformell samling for tilreisende gjester (placeholder).",
+        title: "Velkomstmiddag på Seilmakeren",
+        text: "Pizza og mingling på Seilmakerfruens kro på Lyngør. Vi ordner båttransport tilbake til hotellet",
       },
     ],
   },
@@ -18,24 +23,29 @@ const days = [
     date: "Lørdag 7. august",
     items: [
       {
-        time: "13:00",
+        time: "09:00",
+        title: "Frokost",
+        text: "Frokost serveres i hotellets restaurant frem til klokka 10:00",
+      },
+      {
+        time: "14:30",
         title: "Vielse",
-        text: "Våre løfter ved sjøen (placeholder sted).",
+        text: "Vi ordner transport til og fra vielsen i Dypvåg kirke",
       },
       {
-        time: "14:00",
-        title: "Mingling & foto",
-        text: "Bobler og små biter mens vi fanger øyeblikkene.",
+        time: "15:30",
+        title: "Mingling og seillas",
+        text: "Hint: Vi har leid båt med sjenkebevilning",
       },
       {
-        time: "17:00",
-        title: "Bryllupsmiddag",
-        text: "God mat, varme taler og gode historier.",
+        time: "17:30",
+        title: "Middag",
+        text: "Tre-retters middag og taler",
       },
       {
-        time: "21:00",
-        title: "Fest & dans",
-        text: "En avslappet kveld med dans til langt på natt.",
+        time: "21:30",
+        title: "FEST!!",
+        text: "Dans og drinks",
       },
     ],
   },
@@ -43,9 +53,9 @@ const days = [
     date: "Søndag 8. august",
     items: [
       {
-        time: "11:00",
+        time: "09:00",
         title: "Frokost & farvel",
-        text: "Felles brunsj før hjemreise (placeholder).",
+        text: "Frokost i restauranten før hjemreise",
       },
     ],
   },
