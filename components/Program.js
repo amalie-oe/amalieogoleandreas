@@ -3,14 +3,14 @@ const days = [
     date: "Fredag 6. august",
     items: [
       {
-        time: "15:00",
+        time: "15:00 - 17:00",
         title: "Ankomst & innsjekk",
         text: "Innsjekk på hotellet er tilgjengelig fra kl. 15:00.",
       },
       {
         time: "17:00",
         title: "Svabergspils",
-        text: "Hvis værgudene spiller på lag, blir det svabergspils ved hytta til Amalie. Vi ordner båttransport til og fra Lyngør.",
+        text: "Hvis værgudene spiller på lag, blir det svabergspils ved hytta til Amalie. Vi ordner båttransport fra hotellet til Lyngør.",
       },
       {
         time: "19:00",
@@ -23,14 +23,14 @@ const days = [
     date: "Lørdag 7. august",
     items: [
       {
-        time: "09:00",
+        time: "08:00 - 10:00",
         title: "Frokost",
         text: "Frokost serveres i hotellets restaurant fra kl. 08:00-10:00",
       },
       {
         time: "14:30",
         title: "Vielse",
-        text: "Vi sier ja til hverandre i Dypvåg kirke. Transport til og fra kirken ordnes av oss.",
+        text: "Vielsen finner sted i Dypvåg kirke. Transport til og fra kirken ordnes av oss, og informasjon om oppmøtested og avgang fra hotellet kommer nærmere bryllupet.",
       },
       {
         time: "15:30",
@@ -38,14 +38,9 @@ const days = [
         text: "Etter vielsen tar vi sjøveien til Lyngørporten. Her blir det tid til mingling, noe godt i glasset og en liten smak av sørlandssommeren.",
       },
       {
-        time: "17:30",
-        title: "Bryllupsmiddag",
-        text: "Tre-retters middag, vin i glasset og taler.",
-      },
-      {
-        time: "21:30",
-        title: "Fest og dans",
-        text: "Etter middag og kake åpner vi dansegulvet og skrur opp tempoet.",
+        time: "17:30 - sent",
+        title: "Middag og fest",
+        text: "Bryllupsmiddag med påfølgende fest på Hotell Lyngørporten.",
       },
     ],
   },
