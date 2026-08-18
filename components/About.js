@@ -32,7 +32,7 @@ const items = [
   {
     icon: <EnvelopeIcon />,
     title: "RSVP",
-    text: "Vi håper du vil feire dagen sammen med oss! RSVP-skjemaet finner du nederst på siden eller via RSVP-knappen i fanen øverst. Her registrerer du overnatting og annen praktisk informasjon. Svar innen 15. februar 2027.",
+    text: "Vi håper du vil feire dagen sammen med oss! RSVP-skjemaet finner du nederst på siden eller ved å trykke på knappen under. Her registrerer du overnatting og annen praktisk informasjon. Svar innen 15. februar 2027.",
   },
   {
     icon: <GlassIcon />,
@@ -62,6 +62,15 @@ export default function About() {
               <p className="mt-3 max-w-xs text-sm leading-relaxed text-slate">
                 {item.text}
               </p>
+              {item.title === "RSVP" && (
+                <a
+                  href="#rsvp"
+                  className="mt-6 inline-block rounded-full border border-steel/40 px-8 py-3 text-xs uppercase tracking-[0.2em] text-steel transition-colors hover:bg-steel hover:text-white"
+                >
+                  RSVP
+                </a>
+              )}
+
             </div>
           ))}
         </div>
