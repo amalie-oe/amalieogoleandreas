@@ -4,7 +4,7 @@ export default function Hero() {
   return (
     <section
       id="hjem"
-      className="relative flex min-h-screen flex-col items-center justify-end overflow-hidden bg-navy px-6 pb-16 pt-24 text-mist"
+      className="relative flex min-h-screen flex-col items-center justify-end overflow-hidden bg-navy px-6 pb-8 pt-24 text-mist"
     >
       <div className="absolute inset-0 bg-gradient-to-b from-steel/60 via-navy to-navy" />
       <div className="absolute inset-0 opacity-30 [background-image:radial-gradient(circle_at_50%_15%,#67717E_0,transparent_45%)]" />
@@ -28,6 +28,12 @@ export default function Hero() {
         <p className="mt-3 text-sm uppercase tracking-[0.3em] text-stone">
           Lyngør / Gjeving
         </p>
+        <a
+          href="#rsvp"
+          className="mt-6 inline-block rounded-full border border-mist/70 px-10 py-3 text-xs uppercase tracking-[0.3em] transition-colors hover:bg-mist hover:text-navy"
+        >
+          RSVP
+        </a>
       </div>
     </section>
   );
