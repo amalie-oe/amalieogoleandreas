@@ -44,9 +44,9 @@ export default function About() {
     <section id="om" className="section-padding bg-mist">
       <div className="mx-auto max-w-5xl">
         <div className="mb-16 text-center">
-          <p className="eyebrow">Om bryllupet</p>
+          <p className="eyebrow">Detaljer</p>
           <h2 className="mt-3 heading text-4xl text-steel md:text-5xl">
-            Om helgen
+            Om bryllupet
           </h2>
         </div>
 
