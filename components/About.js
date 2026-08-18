@@ -27,7 +27,7 @@ const items = [
   {
     icon: <HotelIcon />,
     title: "Overnatting",
-    text: (<> Vi har booket hele Hotell Lyngørporten til bryllupshelgen. <strong>Egenandelen er 2 000 kr per person</strong> og dekker overnatting og frokost for helgen. Praktisk informasjon om overnatting og betaling finner du i RSVP-skjemaet. </>),
+    text: (<> Vi har booket hele Hotell Lyngørporten til bryllupshelgen. <strong>Egenandelen er 3 000 kr per person</strong> og dekker overnatting og frokost for helgen. Praktisk informasjon om overnatting og betaling finner du i RSVP-skjemaet. </>),
   },
   {
     icon: <EnvelopeIcon />,
