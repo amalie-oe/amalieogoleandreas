@@ -61,16 +61,6 @@ const days = [
   },
 ];
 
-const Anchor = () => (
-  <svg viewBox="0 0 80 120" className="h-40 w-auto" fill="none" stroke="#67717E" strokeWidth="2">
-    <circle cx="40" cy="16" r="9" />
-    <path d="M40 25v80" strokeLinecap="round" />
-    <path d="M20 45h40" strokeLinecap="round" />
-    <path d="M12 82c0 18 14 26 28 26s28-8 28-26" strokeLinecap="round" />
-    <path d="M12 82l-7 6 9 2M68 82l7 6-9 2" strokeLinecap="round" strokeLinejoin="round" />
-  </svg>
-);
-
 export default function Program() {
   return (
     <section id="program" className="section-padding bg-linen">
@@ -81,11 +71,6 @@ export default function Program() {
             Program
           </h2>
         </div>
-
-        <div className="grid items-start gap-10 md:grid-cols-[auto,1fr]">
-          <div className="hidden justify-center pt-6 text-slate md:flex">
-            <Anchor />
-          </div>
 
           <div className="space-y-12">
             {days.map((day) => (
