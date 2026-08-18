@@ -5,7 +5,7 @@ const faqs = [
   },
   {
     q: "Overnatting",
-    a: "Vi har booket hele Hotell Lyngørporten til bryllupshelgen. Egenandelen er 2000 kr per person og dekker overnatting og frokost for helgen. Detaljer om booking og betaling finner du i RSVP-skjemaet.",
+    a: "Vi har booket hele Hotell Lyngørporten til bryllupshelgen. Egenandelen er 3000 kr per person og dekker overnatting og frokost for helgen. Detaljer om booking og betaling finner du i RSVP-skjemaet.",
   },
   {
     q: "Kleskode",
