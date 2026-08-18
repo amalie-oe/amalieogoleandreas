@@ -1,78 +1,149 @@
-const EnvelopeIcon = () => (
-  <svg viewBox="0 0 64 64" className="h-14 w-14" fill="none" stroke="#45505F" strokeWidth="1.4">
-    <rect x="12" y="18" width="40" height="28" rx="2" />
-    <path d="M12 22l20 14 20-14" />
+const RingsIcon = () => (
+
+  <svg
+
+    viewBox="0 0 64 64"
+
+    className="mx-auto h-12 w-12"
+
+    fill="none"
+
+    stroke="#67717E"
+
+    strokeWidth="1.4"
+
+  >
+
+    <circle cx="26" cy="39" r="13" />
+
+    <circle cx="40" cy="30" r="13" />
+
+    <path d="M22 20l4 6.5L30 20" />
+
+    <path d="M26 20h4" strokeLinecap="round" />
+
   </svg>
+
 );
 
-const GlassIcon = () => (
-  <svg viewBox="0 0 64 64" className="h-14 w-14" fill="none" stroke="#45505F" strokeWidth="1.4">
-    <path d="M14 12h36L34 34v16" strokeLinejoin="round" />
-    <path d="M24 50h20" strokeLinecap="round" />
-    <circle cx="44" cy="16" r="3" />
-  </svg>
+ 
+
+const Divider = () => (
+
+  <div className="mx-auto mt-10 flex items-center justify-center gap-3">
+
+    <span className="h-px w-12 bg-steel/30" />
+
+    <svg width="9" height="9" viewBox="0 0 8 8" className="text-steel/50">
+
+      <path d="M4 0l1 3 3 1-3 1-1 3-1-3-3-1 3-1z" fill="currentColor" />
+
+    </svg>
+
+    <span className="h-px w-12 bg-steel/30" />
+
+  </div>
+
 );
 
-const HotelIcon = () => (
-  <svg viewBox="0 0 64 64" className="h-14 w-14" fill="none" stroke="#45505F" strokeWidth="1.4">
-    <path d="M12 50V20h40v30" />
-    <path d="M12 32h40" />
-    <path d="M20 26h8v6h-8z" />
-    <path d="M36 26h8v6h-8z" />
-    <path d="M12 50h40" />
-  </svg>
-);
-
-const items = [
-  {
-    icon: <HotelIcon />,
-    title: "Overnatting",
-    text: (<> Vi har booket hele Hotell Lyngørporten til bryllupshelgen. <strong>Egenandelen er 3 000 kr per person</strong> og dekker overnatting og frokost for helgen. Praktisk informasjon om overnatting og betaling finner du i RSVP-skjemaet. </>),
-  },
-  {
-    icon: <EnvelopeIcon />,
-    title: "RSVP",
-    text: (<> Vi håper du vil feire dagen sammen med oss! RSVP-skjemaet finner du nederst på siden eller i menyen øverst. Her gir du beskjed om du kan komme, og registrerer overnatting og annen praktisk informasjon. <strong>Svar innen 15. februar 2027</strong>.</>),
-  },
-  {
-    icon: <GlassIcon />,
-    title: "Taler og innslag",
-    text: (<> Ønsker du å holde tale eller bidra med et innslag i løpet av bryllupshelgen? Ta kontakt med vår toastmaster Sven Ole Nicolaysen på {" "}
-          <a
-            href= "mailto:sven.nicolaysen@gmail.com"
-            className="text-steel underline underline-offset-2 hover:text-slate"
-          >
-            sven.nicolaysen@gmail.com
-          </a>
-          . </>),
-  },
-];
+ 
 
 export default function About() {
+
   return (
+
     <section id="om" className="section-padding bg-mist">
-      <div className="mx-auto max-w-5xl">
-        <div className="mb-16 text-center">
-          <p className="eyebrow">Detaljer</p>
-          <h2 className="mt-3 heading text-4xl text-steel md:text-5xl">
-            Om bryllupet
-          </h2>
+
+      <div className="mx-auto max-w-2xl px-6">
+
+        <div className="relative overflow-hidden rounded-sm border border-steel/25 bg-linen/25 px-8 py-14 text-center shadow-[0_24px_60px_-32px_rgba(56,65,79,0.55)] md:px-16 md:py-16">
+
+          {/* indre hårlinje-ramme for invitasjonsfølelse */}
+
+          <span className="pointer-events-none absolute inset-3 rounded-sm border border-steel/15" />
+
+ 
+
+          <div className="relative">
+
+            <RingsIcon />
+
+ 
+
+            <p className="eyebrow mt-6">Velkommen</p>
+
+ 
+
+            <p className="mt-5 font-display text-2xl italic text-steel md:text-3xl">
+
+              Kjære familie og venner
+
+            </p>
+
+ 
+
+            <div className="mx-auto mt-6 max-w-xl space-y-5 text-[15px] leading-relaxed text-slate">
+
+              <p>
+
+                Vi skal gifte oss, og håper du vil dele den store dagen med oss
+
+                på Lyngør! Her har Amalie tilbrakt somrene så lenge hun kan
+
+                huske, ytterst i skjærgården med sjø og svaberg så langt øyet
+
+                rekker.
+
+              </p>
+
+              <p>
+
+                Feiringen går over hele helgen, med vielse i Dypvåg kirke lørdag
+
+                7. august.
+
+              </p>
+
+              <p>
+
+                Svar utbedes innen 15. februar 2027. Svarskjema og praktisk
+
+                informasjon finner du her på denne siden.
+
+              </p>
+
+            </div>
+
+ 
+
+            <Divider />
+
+ 
+
+            <p className="mt-6 heading text-3xl text-steel md:text-4xl">
+
+              Amalie
+
+              <span className="mx-2 font-light text-stone">&amp;</span>
+
+              Ole Andreas
+
+            </p>
+
+            <p className="mt-3 text-xs uppercase tracking-[0.3em] text-stone">
+
+              6.–8. august 2027 · Lyngør
+
+            </p>
+
+          </div>
+
         </div>
 
-        <div className="grid gap-12 text-center md:grid-cols-3">
-          {items.map((item) => (
-            <div key={item.title} className="flex flex-col items-center">
-              {item.icon}
-              <h3 className="mt-5 font-display text-2xl text-steel">
-                {item.title}
-              </h3>
-              <p className="mt-3 max-w-xs text-sm leading-relaxed text-slate">
-                {item.text}
-              </p>
-            </div>
-          ))}
-        </div>
       </div>
+
     </section>
+
   );
+
 }
