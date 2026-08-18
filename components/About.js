@@ -25,15 +25,15 @@ const items = [
   {
     icon: <RingsIcon />,
     title: "Overnatting",
-    text: "Vi har booket hele Hotell Lyngørporten til bryllupshelgen. Egenandelen for overnatting er 2000 kr per person og inkluderer to netter på hotellet (fredag–søndag), frokost begge dager og matpakke lørdag. Informasjon om overnatting og betaling finner du i RSVP-skjemaet.",
+    text: "Vi har booket hele Hotell Lyngørporten til bryllupshelgen. Vi fordeler gjestene på rom, og egenandelen er 2 000 kr per person. Praktisk informasjon om overnatting og betaling finner du i RSVP-skjemaet.",
   },
   {
     icon: <GlassIcon />,
-    title: "Transport",
-    text: "Vi anbefaler å komme med bil, og det er parkering tilgjengelig ved hotellet. Kommer du med båt, kan båtplass avtales direkte med Lyngørporten Hotell. Det er også mulig å ta buss til Vinterkjær, men da må du selv sørge for transport videre til hotellet.",
+    title: "RSVP",
+    text: "Vi håper du vil feire dagen sammen med oss! RSVP-skjemaet finner du nederst på siden eller via RSVP-knappen i fanen øverst. Her registrerer du overnatting og annen praktisk informasjon. Svar innen 15. februar 2027.",
   },
   {
-    icon: <DressIcon />,
+    icon: <GlassIcon />,
     title: "Taler og innslag",
     text: "Ønsker du å holde tale eller bidra med et innslag i løpet av bryllupshelgen, kan du kontakt med vår toastmaster Sven Ole på XXX XX XXX.",
   },
