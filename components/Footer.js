@@ -5,9 +5,6 @@ export default function Footer() {
       <p className="mt-3 text-xs uppercase tracking-[0.3em] text-stone">
         6.-8. august &middot; Lyngør / Gjeving
       </p>
-      <p className="mt-6 text-xs text-slate">
-        Vi gleder oss til å feire sammen med dere.
-      </p>
     </footer>
   );
 }
