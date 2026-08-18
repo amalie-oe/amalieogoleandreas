@@ -1,8 +1,7 @@
-const RingsIcon = () => (
+const EnvelopeIcon = () => (
   <svg viewBox="0 0 64 64" className="h-14 w-14" fill="none" stroke="#45505F" strokeWidth="1.4">
-    <circle cx="25" cy="38" r="14" />
-    <circle cx="39" cy="38" r="14" />
-    <path d="M32 6l4 8h-8l4-8z" />
+    <rect x="12" y="18" width="40" height="28" rx="2" />
+    <path d="M12 22l20 14 20-14" />
   </svg>
 );
 
@@ -14,21 +13,24 @@ const GlassIcon = () => (
   </svg>
 );
 
-const DressIcon = () => (
+const HotelIcon = () => (
   <svg viewBox="0 0 64 64" className="h-14 w-14" fill="none" stroke="#45505F" strokeWidth="1.4">
-    <path d="M26 10c0 4 12 4 12 0" />
-    <path d="M26 10l-6 12 6 4-6 26h28l-6-26 6-4-6-12" strokeLinejoin="round" />
+    <path d="M12 50V20h40v30" />
+    <path d="M12 32h40" />
+    <path d="M20 26h8v6h-8z" />
+    <path d="M36 26h8v6h-8z" />
+    <path d="M12 50h40" />
   </svg>
 );
 
 const items = [
   {
-    icon: <RingsIcon />,
+    icon: <HotelIcon />,
     title: "Overnatting",
     text: "Vi har booket hele Hotell Lyngørporten til bryllupshelgen. Vi fordeler gjestene på rom, og egenandelen er 2 000 kr per person. Praktisk informasjon om overnatting og betaling finner du i RSVP-skjemaet.",
   },
   {
-    icon: <GlassIcon />,
+    icon: <EnvelopeIcon />,
     title: "RSVP",
     text: "Vi håper du vil feire dagen sammen med oss! RSVP-skjemaet finner du nederst på siden eller via RSVP-knappen i fanen øverst. Her registrerer du overnatting og annen praktisk informasjon. Svar innen 15. februar 2027.",
   },
