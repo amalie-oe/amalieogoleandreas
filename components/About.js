@@ -40,7 +40,7 @@ export default function About() {
             informasjon finner du her på denne siden.
           </p>
         </div>
-        <p>
+         <p className="mt-8 font-display text-lg italic text-steel md:text-xl">
           Vi gleder oss til å feire sammen med dere!
         </p>
         <p className="mt-2 font-display text-lg italic text-steel">
