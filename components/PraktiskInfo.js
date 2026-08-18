@@ -1,7 +1,7 @@
 const faqs = [
   {
     q: "Transport",
-    a: "Vi anbefaler å komme med bil, og det er god parkeringskapasitet ved hotellet. Ønsker du å komme med båt, kan båtplass avtales direkte med Lyngørporten Hotell. Det er også mulig å ta buss til Vinterkjær, men da må du selv sørge for transport videre til hotellet.",
+    a: "Vi anbefaler å komme med bil. Det er god parkeringskapasitet ved hotellet, men samkjør gjerne hvis dere har mulighet. Kommer du med båt, anbefaler vi at du tar kontakt med hotellet for å høre hvilke muligheter som finnes i Gjeving.",
   },
   {
     q: "Overnatting",
