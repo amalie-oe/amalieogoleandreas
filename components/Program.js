@@ -95,7 +95,6 @@ export default function Program() {
               </div>
             ))}
           </div>
-        </div>
       </div>
     </section>
   );
