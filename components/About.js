@@ -54,7 +54,7 @@ export default function About() {
 
     <section id="om" className="section-padding bg-mist">
 
-      <div className="mx-auto max-w-2xl px-6">
+      <div className="mx-auto max-w-3xl px-6">
 
         <div className="relative overflow-hidden rounded-sm border border-steel/25 bg-linen/25 px-8 py-14 text-center shadow-[0_24px_60px_-32px_rgba(56,65,79,0.55)] md:px-16 md:py-16">
 
