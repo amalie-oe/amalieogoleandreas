@@ -6,7 +6,7 @@ const FORM_EMBED_URL = "https://docs.google.com/forms/d/e/1FAIpQLScWxwnkozMl5HpW
 export default function Rsvp() {
   return (
     <section id="rsvp" className="section-padding bg-linen">
-      <div className="mx-auto max-w-2xl text-center">
+      <div className="mx-auto max-w-5xl text-center">
         <p className="eyebrow">Gi oss beskjed</p>
         <h2 className="mt-3 heading text-3xl text-steel md:text-5xl">RSVP</h2>
         <p className="mx-auto mt-4 max-w-xl text-sm leading-relaxed text-slate">
@@ -19,7 +19,7 @@ export default function Rsvp() {
             <iframe
               src={FORM_EMBED_URL}
               title="RSVP-skjema"
-              className="h-[900px] w-full rounded-lg border border-stone"
+              className="h-[1500px] w-full rounded-lg border border-stone"
             >
               Laster skjema&hellip;
             </iframe>
