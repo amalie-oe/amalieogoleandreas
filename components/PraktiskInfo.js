@@ -1,11 +1,11 @@
 const faqs = [
   {
-    q: "Transport",
-    a: "Vi anbefaler å komme med bil. Det er god parkeringskapasitet ved hotellet, men samkjør gjerne hvis dere har mulighet. Kommer du med båt, anbefaler vi at du tar kontakt med hotellet for å høre hvilke muligheter som finnes i Gjeving.",
-  },
-  {
     q: "Overnatting",
     a: "Vi har booket hele Hotell Lyngørporten til bryllupshelgen. Egenandelen er 3000 kr per person og dekker overnatting og frokost for helgen. Detaljer om booking og betaling finner du i RSVP-skjemaet.",
+  },
+  {
+    q: "Transport",
+    a: "Vi anbefaler å komme med bil. Det er god parkeringskapasitet ved hotellet, men samkjør gjerne hvis dere har mulighet. Kommer du med båt, anbefaler vi at du tar kontakt med hotellet for å høre hvilke muligheter som finnes i Gjeving.",
   },
   {
     q: "Kleskode",
