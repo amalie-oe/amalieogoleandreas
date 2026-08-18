@@ -5,14 +5,14 @@ const faqs = [
   },
   {
     q: "Overnatting",
-    a: "Vi har booket hele Hotell Lyngørporten til bryllupshelgen. Egenandelen er 2000 kr per person og inkluderer overnatting, frokost og matpakke lørdag. Detaljer om booking og betaling finner du i RSVP-skjemaet.",
+    a: "Vi har booket hele Hotell Lyngørporten til bryllupshelgen. Egenandelen er 2000 kr per person og inkluderer overnatting, frokost og enkel lunsj lørdag. Detaljer om booking og betaling finner du i RSVP-skjemaet.",
   },
   {
     q: "Kleskode",
     a: "Fredag: Sommerlig pent, f.eks. kjole + strikkegenser, skjorte + chinos eller lindress. Lørdag: Smoking/mørk dress/lang kjole.",
   },
   {
-    q: "Vær og klær",
+    q: "Pakkeliste",
     a: "Pakk for både sol og sørlandsvær. En strikkegenser og vindjakke kan være god å ha med når kvelden kommer, og badetøy hvis du får lyst på en dukkert. Til fredagens svabergspils anbefaler vi flate sko.",
   },
   {
