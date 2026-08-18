@@ -39,7 +39,7 @@ const items = [
     title: "Taler og innslag",
     text: (<> Har du spørsmål om helgen? Ta kontakt med toastmaster Sven Ole på{" "}
           <a
-            href=mailto:sven.nicolaysen@gmail.com
+            href= "mailto:sven.nicolaysen@gmail.com"
             className="text-steel underline underline-offset-2 hover:text-slate"
           >
             sven.nicolaysen@gmail.com
