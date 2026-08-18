@@ -64,7 +64,7 @@ const days = [
 export default function Program() {
   return (
     <section id="program" className="section-padding bg-linen">
-      <div className="mx-auto max-w-4xl">
+      <div className="mx-auto max-w-3xl">
         <div className="mb-16 text-center">
           <p className="eyebrow">Helgen</p>
           <h2 className="mt-3 heading text-4xl text-steel md:text-5xl">
