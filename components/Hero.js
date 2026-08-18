@@ -25,6 +25,9 @@ export default function Hero() {
           <p className="text-sm uppercase tracking-[0.3em]">6.-8. august</p>
           <span className="h-px flex-1 bg-mist/40" />
         </div>
+        <p className="mt-3 text-sm uppercase tracking-[0.3em] text-stone">
+          Lyngør / Gjeving
+        </p>
         <a
           href="#rsvp"
           className="mt-6 inline-block rounded-full border border-mist/70 px-10 py-3 text-xs uppercase tracking-[0.3em] transition-colors hover:bg-mist hover:text-navy"
