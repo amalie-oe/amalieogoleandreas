@@ -21,7 +21,7 @@ const faqs = [
   },
   {
     q: "Taler og innslag",
-    a: "Ta gjerne kontakt med vår toastmaster, Sven Ole, på XXX XX XXX",
+    a: "Ønsker du å holde tale eller bidra med et innslag i løpet av bryllupshelgen? Ta kontakt med vår toastmaster, Sven Ole, på XXX XX XXX",
   },
 ];
 
