@@ -27,7 +27,7 @@ const items = [
   {
     icon: <HotelIcon />,
     title: "Overnatting",
-    text: "Vi har booket hele Hotell Lyngørporten til bryllupshelgen. Vi fordeler gjestene på rom, og egenandelen er 2 000 kr per person. Praktisk informasjon om overnatting og betaling finner du i RSVP-skjemaet.",
+    text: "Vi har booket hele Hotell Lyngørporten til bryllupshelgen. Vi fordeler gjestene på rom, og egenandelen er <strong>2 000 kr per person</strong>. Praktisk informasjon om overnatting og betaling finner du i RSVP-skjemaet.",
   },
   {
     icon: <EnvelopeIcon />,
@@ -37,7 +37,7 @@ const items = [
   {
     icon: <GlassIcon />,
     title: "Taler og innslag",
-    text: "Ønsker du å holde tale eller bidra med et innslag i løpet av bryllupshelgen, kan du kontakt med vår toastmaster Sven Ole på XXX XX XXX.",
+    text: "Ønsker du å holde tale eller bidra med et innslag i løpet av bryllupshelgen? Ta kontakt med vår toastmaster Sven Ole på XXX XX XXX.",
   },
 ];
 
