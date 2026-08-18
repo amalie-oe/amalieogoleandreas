@@ -37,7 +37,7 @@ const items = [
   {
     icon: <GlassIcon />,
     title: "Taler og innslag",
-    text: (<> Ønsker du å holde tale eller bidra med et innslag i løpet av bryllupshelgen? Ta kontakt med vår toastmaster Sven Ole på {" "}
+    text: (<> Ønsker du å holde tale eller bidra med et innslag i løpet av bryllupshelgen? Ta kontakt med vår toastmaster Sven Ole Nicolaysen på {" "}
           <a
             href= "mailto:sven.nicolaysen@gmail.com"
             className="text-steel underline underline-offset-2 hover:text-slate"
