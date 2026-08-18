@@ -6,7 +6,7 @@ const FORM_EMBED_URL = "https://docs.google.com/forms/d/e/1FAIpQLScWxwnkozMl5HpW
 export default function Rsvp() {
   return (
     <section id="rsvp" className="section-padding bg-linen">
-      <div className="mx-auto max-w-4xl text-center">
+      <div className="mx-auto max-w-3xl text-center">
         <p className="eyebrow">Gi oss beskjed</p>
         <h2 className="mt-3 heading text-3xl text-steel md:text-5xl">RSVP</h2>
         <p className="mx-auto mt-4 max-w-xl text-sm leading-relaxed text-slate">
