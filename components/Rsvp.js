@@ -15,7 +15,7 @@ export default function Rsvp() {
             <iframe
               src={FORM_EMBED_URL}
               title="RSVP-skjema"
-              className="h-[1300px] w-full rounded-lg border border-stone"
+              className="h-[1350px] w-full rounded-lg border border-stone"
             >
               Laster skjema&hellip;
             </iframe>
