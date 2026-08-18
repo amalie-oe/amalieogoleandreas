@@ -32,12 +32,12 @@ const items = [
   {
     icon: <EnvelopeIcon />,
     title: "RSVP",
-    text: "Vi håper du vil feire dagen sammen med oss! RSVP-skjemaet finner du nederst på siden eller ved å trykke på knappen under. Her registrerer du overnatting og annen praktisk informasjon. Svar innen 15. februar 2027.",
+    text: (<> Vi håper du vil feire dagen sammen med oss! RSVP-skjemaet finner du nederst på siden eller ved å trykke på knappen under. Her registrerer du overnatting og annen praktisk informasjon. <strong>Svar innen 15. februar 2027</strong>.</>),
   },
   {
     icon: <GlassIcon />,
     title: "Taler og innslag",
-    text: "Ønsker du å holde tale eller bidra med et innslag i løpet av bryllupshelgen? Ta kontakt med vår toastmaster Sven Ole på XXX XX XXX.",
+    text: (<>"Ønsker du å holde tale eller bidra med et innslag i løpet av bryllupshelgen? Ta kontakt med vår toastmaster Sven Ole på <strong>XXX XX XXX.</strong></>)",
   },
 ];
 
