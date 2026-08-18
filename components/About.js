@@ -22,7 +22,7 @@ export default function About() {
       <div className="mx-auto max-w-4xl px-6 text-center">
         <RingsIcon />
         <h2 className="mt-6 heading text-4xl text-steel md:text-5xl">
-          Velkommen
+          Vi gifter oss!
         </h2>
         <div className="mx-auto mt-8 max-w-xl space-y-5 text-[15px] leading-relaxed text-slate">
           <p>Kjære familie og venner,</p>
@@ -39,10 +39,10 @@ export default function About() {
             Svar utbedes innen 15. februar 2027. Svarskjema og praktisk
             informasjon finner du her på denne siden.
           </p>
-        </div>
-         <p className="mt-8 font-display text-lg italic text-steel md:text-xl">
+          <p>
           Vi gleder oss til å feire sammen med dere!
-        </p>
+          </p>
+        </div>
         <p className="mt-2 font-display text-lg italic text-steel">
           Amalie &amp; Ole Andreas
         </p>
