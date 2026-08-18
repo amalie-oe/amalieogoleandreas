@@ -32,7 +32,7 @@ const items = [
   {
     icon: <EnvelopeIcon />,
     title: "RSVP",
-    text: (<> Vi håper du vil feire dagen sammen med oss! RSVP-skjemaet finner du nederst på siden eller ved å trykke på knappen under. Her registrerer du overnatting og annen praktisk informasjon. <strong>Svar innen 15. februar 2027</strong>.</>),
+    text: (<> Vi håper du vil feire dagen sammen med oss! RSVP-skjemaet finner du nederst på siden eller ved å trykke på knappen under. Her gir du beskjed om du kan komme, og registrerer overnatting og annen praktisk informasjon. <strong>Svar innen 15. februar 2027</strong>.</>),
   },
   {
     icon: <GlassIcon />,
