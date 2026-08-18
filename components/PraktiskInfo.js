@@ -1,26 +1,26 @@
 const faqs = [
   {
-    q: "Hvordan kommer jeg meg til Lyngørporten?",
+    q: "Transport",
     a: "Vi anbefaler å komme med bil, og det er god parkeringskapasitet ved hotellet. Ønsker du å komme med båt, kan båtplass avtales direkte med Lyngørporten Hotell. Det er også mulig å ta buss til Vinterkjær, men da må du selv sørge for transport videre til hotellet.",
   },
   {
-    q: "Hvor skal jeg bo?",
-    a: "Vi har booket hele Hotell Lyngørporten til bryllupshelgen. Informasjon om overnatting og betaling finner du i RSVP-skjemaet.",
+    q: "Overnatting",
+    a: "Vi har booket hele Hotell Lyngørporten til bryllupshelgen. Egenandelen er 2000 kr per person og inkluderer overnatting, frokost og matpakke lørdag. Detaljer om booking og betaling finner du i RSVP-skjemaet.",
   },
   {
-    q: "Hva er klesskoden?",
+    q: "Kleskode",
     a: "Fredag: Sommerlig pent, f.eks. kjole + strikkegenser, skjorte + chinos eller lindress. Lørdag: Smoking/mørk dress/lang kjole.",
   },
   {
-    q: "Noe spesielt jeg bør pakke?",
+    q: "Vær og klær",
     a: "Pakk for både sol og sørlandsvær. En strikkegenser og vindjakke kan være god å ha med når kvelden kommer, og badetøy hvis du får lyst på en dukkert. Til fredagens svabergspils anbefaler vi flate sko.",
   },
   {
-    q: "Har du allergier eller andre behov vi bør kjenne til?",
+    q: "Allergier og behov",
     a: "Gi beskjed i RSVP-skjemaet, så gjør vi vårt beste for å tilrettelegge.",
   },
   {
-    q: "Ønsker du å holde tale eller bidra med et innslag?",
+    q: "Taler og innslag",
     a: "Ta gjerne kontakt med vår toastmaster, Sven Ole, på XXX XX XXX",
   },
 ];
