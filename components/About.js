@@ -28,7 +28,7 @@ export default function About() {
           <p>Kjære familie og venner,</p>
           <p>
             Vi skal gifte oss, og håper du vil dele den store dagen med oss på Lyngør! 
-            Her har Amalie har tilbrakt somrene så lenge hun kan huske, 
+            Her har Amalie tilbrakt somrene så lenge hun kan huske, 
             ytterst i skjærgården med sjø og svaberg så langt øyet rekker.
           </p>
 
