@@ -16,7 +16,7 @@ const RingsIcon = () => (
 export default function About() {
   return (
     <section
-      id="om"
+      id="velkommen"
       className="bg-mist px-6 pb-20 pt-10 md:px-12 md:pb-28 md:pt-14"
     >
       <div className="mx-auto max-w-4xl px-6 text-center">
