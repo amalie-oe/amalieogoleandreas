@@ -10,7 +10,7 @@ const days = [
       {
         time: "17:00",
         title: "Svabergspils",
-        text: "Hvis værgudene spiller på lag, blir det svabergspils ved hytta til Amalie. Vi ordner båttransport fra hotellet til Lyngør.",
+        text: "Hvis værgudene spiller på lag, blir det pils og bobler ved hytta til Amalie. Vi ordner båttransport fra hotellet til Lyngør.",
       },
       {
         time: "19:00",
