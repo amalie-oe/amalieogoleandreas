@@ -43,7 +43,7 @@ export default function About() {
           Vi gleder oss til å feire sammen med dere!
           </p>
         </div>
-        <p className="mt-2 font-display text-lg italic text-steel">
+        <p className="mt-8 font-display text-lg italic text-steel">
           Amalie &amp; Ole Andreas
         </p>
       </div>
