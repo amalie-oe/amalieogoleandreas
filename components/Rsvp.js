@@ -9,10 +9,6 @@ export default function Rsvp() {
       <div className="mx-auto max-w-3xl text-center">
         <p className="eyebrow">Gi oss beskjed</p>
         <h2 className="mt-3 heading text-3xl text-steel md:text-5xl">RSVP</h2>
-        <p className="mx-auto mt-4 max-w-xl text-sm leading-relaxed text-slate">
-          Vi setter stor pris på om du svarer innen 15. Februar 2027 ved å fylle ut
-          skjemaet under.
-        </p>
 
         <div className="mt-12">
           {FORM_EMBED_URL ? (
