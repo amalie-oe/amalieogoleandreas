@@ -4,7 +4,7 @@ export default function Hero() {
   return (
     <section
       id="hjem"
-      className="relative flex min-h-screen flex-col items-center justify-end overflow-hidden bg-navy px-6 pb-19 pt-24 text-mist"
+      className="relative flex min-h-screen flex-col items-center justify-end overflow-hidden bg-navy px-6 pb-16 pt-24 text-mist"
     >
       <div className="absolute inset-0 bg-gradient-to-b from-steel/60 via-navy to-navy" />
       <div className="absolute inset-0 opacity-30 [background-image:radial-gradient(circle_at_50%_15%,#67717E_0,transparent_45%)]" />
