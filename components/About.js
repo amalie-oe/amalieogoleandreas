@@ -4,7 +4,7 @@ const RingsIcon = () => (
 
     viewBox="0 0 64 64"
 
-    className="mx-auto h-12 w-12"
+    className="mx-auto h-16 w-16"
 
     fill="none"
 
@@ -28,117 +28,77 @@ const RingsIcon = () => (
 
  
 
-const Divider = () => (
-
-  <div className="mx-auto mt-10 flex items-center justify-center gap-3">
-
-    <span className="h-px w-12 bg-steel/30" />
-
-    <svg width="9" height="9" viewBox="0 0 8 8" className="text-steel/50">
-
-      <path d="M4 0l1 3 3 1-3 1-1 3-1-3-3-1 3-1z" fill="currentColor" />
-
-    </svg>
-
-    <span className="h-px w-12 bg-steel/30" />
-
-  </div>
-
-);
-
- 
-
 export default function About() {
 
   return (
 
-    <section id="om" className="section-padding bg-mist">
+    <section
 
-      <div className="mx-auto max-w-3xl px-6">
+      id="om"
 
-        <div className="relative overflow-hidden rounded-sm border border-steel/25 bg-linen/25 px-8 py-14 text-center shadow-[0_24px_60px_-32px_rgba(56,65,79,0.55)] md:px-16 md:py-16">
+      className="bg-mist px-6 pb-20 pt-10 md:px-12 md:pb-28 md:pt-14"
 
-          {/* indre hårlinje-ramme for invitasjonsfølelse */}
+    >
 
-          <span className="pointer-events-none absolute inset-3 rounded-sm border border-steel/15" />
+      <div className="mx-auto max-w-3xl px-6 text-center">
 
- 
-
-          <div className="relative">
-
-            <RingsIcon />
+        <RingsIcon />
 
  
 
-            <p className="eyebrow mt-6">Velkommen</p>
+        <h2 className="mt-6 heading text-4xl text-steel md:text-5xl">
+
+          Velkommen
+
+        </h2>
 
  
 
-            <p className="mt-5 font-display text-2xl italic text-steel md:text-3xl">
+        <div className="mx-auto mt-8 max-w-xl space-y-5 text-[15px] leading-relaxed text-slate">
 
-              Kjære familie og venner
+          <p>Kjære familie og venner,</p>
 
-            </p>
+          <p>
 
- 
+            Vi skal gifte oss, og håper du vil dele den store dagen med oss på
 
-            <div className="mx-auto mt-6 max-w-xl space-y-5 text-[15px] leading-relaxed text-slate">
+            Lyngør! Der Amalie har tilbrakt somrene så lenge hun kan huske,
 
-              <p>
+            ytterst i skjærgården med sjø og svaberg så langt øyet rekker.
 
-                Vi skal gifte oss, og håper du vil dele den store dagen med oss
+          </p>
 
-                på Lyngør! Her har Amalie tilbrakt somrene så lenge hun kan
+          <p>
 
-                huske, ytterst i skjærgården med sjø og svaberg så langt øyet
+            Feiringen går over hele helgen, med vielse i Dypvåg kirke lørdag
 
-                rekker.
+            7. august.
 
-              </p>
+          </p>
 
-              <p>
+          <p>
 
-                Feiringen går over hele helgen, med vielse i Dypvåg kirke lørdag
+            Svar utbedes innen 15. februar 2027. Svarskjema og praktisk
 
-                7. august.
+            informasjon finner du her på denne siden.
 
-              </p>
-
-              <p>
-
-                Svar utbedes innen 15. februar 2027. Svarskjema og praktisk
-
-                informasjon finner du her på denne siden.
-
-              </p>
-
-            </div>
-
- 
-
-            <Divider />
-
- 
-
-            <p className="mt-6 heading text-3xl text-steel md:text-4xl">
-
-              Amalie
-
-              <span className="mx-2 font-light text-stone">&amp;</span>
-
-              Ole Andreas
-
-            </p>
-
-            <p className="mt-3 text-xs uppercase tracking-[0.3em] text-stone">
-
-              6.–8. august 2027 · Lyngør
-
-            </p>
-
-          </div>
+          </p>
 
         </div>
+
+ 
+
+        <p>
+
+          Vi gleder oss til å feire sammen med dere!
+
+        </p>
+
+        <p className="mt-2 font-display text-lg italic text-steel">
+
+          Amalie &amp; Ole Andreas
+
+        </p>
 
       </div>
 
