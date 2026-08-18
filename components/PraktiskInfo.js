@@ -16,12 +16,16 @@ const faqs = [
     a: "Pakk for både sol og sørlandsvær. En strikkegenser og vindjakke kan være god å ha med når kvelden kommer, og badetøy hvis du får lyst på en dukkert. Til fredagens svabergspils anbefaler vi flate sko.",
   },
   {
-    q: "Allergier og behov",
+    q: "Allergier og andre behov",
     a: "Gi beskjed i RSVP-skjemaet, så gjør vi vårt beste for å tilrettelegge.",
   },
   {
     q: "Taler og innslag",
     a: "Ønsker du å holde tale eller bidra med et innslag i løpet av bryllupshelgen? Ta kontakt med vår toastmaster, Sven Ole, på XXX XX XXX",
+  },
+  {
+    q: "Bryllupsgave",
+    a: (<> Det viktigste for oss er at dere kommer og feirer dagen sammen med oss. Vi forventer derfor ingen bryllupsgave, men blir veldig glade for et hyggelig kort ♡ </>),
   },
 ];
 
