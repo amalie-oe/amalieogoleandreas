@@ -4,14 +4,14 @@ export default function Hero() {
   return (
     <section
       id="hjem"
-      className="relative flex min-h-screen flex-col items-center justify-end overflow-hidden bg-navy px-6 pb-20 pt-24 text-mist"
+      className="relative flex min-h-screen flex-col items-center justify-end overflow-hidden bg-navy px-6 pb-8 pt-24 text-mist"
     >
       <div className="absolute inset-0 bg-gradient-to-b from-steel/60 via-navy to-navy" />
       <div className="absolute inset-0 opacity-30 [background-image:radial-gradient(circle_at_50%_15%,#67717E_0,transparent_45%)]" />
 
       <Lighthouse />
 
-      <div className="relative mt-400 z-10 flex flex-col items-center text-center">
+      <div className="relative z-10 flex flex-col items-center text-center">
        <h1 className="heading text-4xl leading-tight md:text-7xl"> 
           <span className="whitespace-nowrap"> 
             Amalie<span className="mx-3 font-light text-stone">&amp;</span> 
