@@ -15,7 +15,7 @@ const days = [
       {
         time: "19:00",
         title: "Velkomstmiddag på Seilmakeren",
-        text: "Pizza, noe godt i glasset og tid til å bli kjent med hverandre før den store dagen. Vi ordner transport tilbake til hotellet.",
+        text: "Pizza, noe godt i glasset og tid til å bli kjent med hverandre før den store dagen. Vi ordner båttransport tilbake til hotellet.",
       },
     ],
   },
