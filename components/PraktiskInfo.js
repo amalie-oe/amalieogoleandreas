@@ -13,7 +13,7 @@ const faqs = [
   },
   {
     q: "Pakkeliste",
-    a: "Pakk for både sol og sørlandsvær. En strikkegenser og vindjakke kan være god å ha med når kvelden kommer, og badetøy hvis du får lyst på en dukkert. Til fredagens svabergspils anbefaler vi flate sko.",
+    a: "Sjekk værmeldingen og pakk for skiftende kystvær. Selv på varme sommerdager kan det blåse litt ved sjøen, så en strikkegenser og lett vindjakke kan være god å ha med. Badetøy er også fint hvis du får lyst på en dukkert. Til fredagens svabergspils anbefaler vi flate sko.",
   },
   {
     q: "Allergier og andre behov",
