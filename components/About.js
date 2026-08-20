@@ -28,8 +28,8 @@ export default function About() {
           <p>Kjære familie og venner,</p>
           <p>
             Vi skal gifte oss, og håper du vil dele den store dagen med oss på Lyngør! 
-            Her har Amalie tilbrakt somrene så lenge hun kan huske, 
-            ytterst i skjærgården med sjø og svaberg så langt øyet rekker.
+            Ytterst i skjærgården, med sjø og svaberg så langt øyet rekker, er dette et 
+            sted vi forbinder med sommer, godt selskap og kvelder som gjerne blir litt lengre enn planlagt.
           </p>
 
           <p>
