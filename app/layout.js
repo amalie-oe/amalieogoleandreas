@@ -19,6 +19,12 @@ export const metadata = {
   title: "Amalie & Ole Andreas | Bryllup på Lyngør",
   description:
     "Velkommen til bryllupet til Amalie og Ole Andreas på Lyngør, 6.-8. august.",
+    applicationName: "A&O",
+    appleWebApp: {
+      capable: true,
+      title: "A&O",
+      statusBarStyle: "default",
+    },
 };
 
 export default function RootLayout({ children }) {
