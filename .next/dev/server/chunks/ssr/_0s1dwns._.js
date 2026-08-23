@@ -321,8 +321,8 @@ const links = [
         label: "Hjem"
     },
     {
-        href: "#om",
-        label: "Om"
+        href: "#velkommen",
+        label: "Velkommen"
     },
     {
         href: "#program",

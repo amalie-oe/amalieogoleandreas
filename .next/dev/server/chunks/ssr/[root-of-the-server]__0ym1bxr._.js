@@ -102,34 +102,42 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist
 ;
 const RingsIcon = ()=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
         viewBox: "0 0 64 64",
-        className: "h-14 w-14",
+        className: "mx-auto h-16 w-16",
         fill: "none",
-        stroke: "#45505F",
+        stroke: "#67717E",
         strokeWidth: "1.4",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("circle", {
-                cx: "25",
-                cy: "38",
-                r: "14"
+                cx: "26",
+                cy: "39",
+                r: "13"
             }, void 0, false, {
                 fileName: "[project]/components/About.js",
-                lineNumber: 3,
+                lineNumber: 9,
                 columnNumber: 5
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("circle", {
-                cx: "39",
-                cy: "38",
-                r: "14"
+                cx: "40",
+                cy: "30",
+                r: "13"
             }, void 0, false, {
                 fileName: "[project]/components/About.js",
-                lineNumber: 4,
+                lineNumber: 10,
                 columnNumber: 5
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                d: "M32 6l4 8h-8l4-8z"
+                d: "M22 20l4 6.5L30 20"
             }, void 0, false, {
                 fileName: "[project]/components/About.js",
-                lineNumber: 5,
+                lineNumber: 11,
+                columnNumber: 5
+            }, ("TURBOPACK compile-time value", void 0)),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
+                d: "M26 20h4",
+                strokeLinecap: "round"
+            }, void 0, false, {
+                fileName: "[project]/components/About.js",
+                lineNumber: 12,
                 columnNumber: 5
             }, ("TURBOPACK compile-time value", void 0))
         ]
@@ -138,175 +146,87 @@ const RingsIcon = ()=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$proje
         lineNumber: 2,
         columnNumber: 3
     }, ("TURBOPACK compile-time value", void 0));
-const GlassIcon = ()=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
-        viewBox: "0 0 64 64",
-        className: "h-14 w-14",
-        fill: "none",
-        stroke: "#45505F",
-        strokeWidth: "1.4",
-        children: [
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                d: "M14 12h36L34 34v16",
-                strokeLinejoin: "round"
-            }, void 0, false, {
-                fileName: "[project]/components/About.js",
-                lineNumber: 11,
-                columnNumber: 5
-            }, ("TURBOPACK compile-time value", void 0)),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                d: "M24 50h20",
-                strokeLinecap: "round"
-            }, void 0, false, {
-                fileName: "[project]/components/About.js",
-                lineNumber: 12,
-                columnNumber: 5
-            }, ("TURBOPACK compile-time value", void 0)),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("circle", {
-                cx: "44",
-                cy: "16",
-                r: "3"
-            }, void 0, false, {
-                fileName: "[project]/components/About.js",
-                lineNumber: 13,
-                columnNumber: 5
-            }, ("TURBOPACK compile-time value", void 0))
-        ]
-    }, void 0, true, {
-        fileName: "[project]/components/About.js",
-        lineNumber: 10,
-        columnNumber: 3
-    }, ("TURBOPACK compile-time value", void 0));
-const DressIcon = ()=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
-        viewBox: "0 0 64 64",
-        className: "h-14 w-14",
-        fill: "none",
-        stroke: "#45505F",
-        strokeWidth: "1.4",
-        children: [
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                d: "M26 10c0 4 12 4 12 0"
-            }, void 0, false, {
-                fileName: "[project]/components/About.js",
-                lineNumber: 19,
-                columnNumber: 5
-            }, ("TURBOPACK compile-time value", void 0)),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                d: "M26 10l-6 12 6 4-6 26h28l-6-26 6-4-6-12",
-                strokeLinejoin: "round"
-            }, void 0, false, {
-                fileName: "[project]/components/About.js",
-                lineNumber: 20,
-                columnNumber: 5
-            }, ("TURBOPACK compile-time value", void 0))
-        ]
-    }, void 0, true, {
-        fileName: "[project]/components/About.js",
-        lineNumber: 18,
-        columnNumber: 3
-    }, ("TURBOPACK compile-time value", void 0));
-const items = [
-    {
-        icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(RingsIcon, {}, void 0, false, {
-            fileName: "[project]/components/About.js",
-            lineNumber: 26,
-            columnNumber: 11
-        }, ("TURBOPACK compile-time value", void 0)),
-        title: "Vielsen",
-        text: "Vi gifter oss ute ved sjøen på Lyngør, med havluft og skjærgård som bakteppe. Intimt og kystnært (placeholder)."
-    },
-    {
-        icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(GlassIcon, {}, void 0, false, {
-            fileName: "[project]/components/About.js",
-            lineNumber: 31,
-            columnNumber: 11
-        }, ("TURBOPACK compile-time value", void 0)),
-        title: "Festen",
-        text: "Middag og dans følger på (placeholder sted). God mat, gode taler og kanskje en overraskelse eller to."
-    },
-    {
-        icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(DressIcon, {}, void 0, false, {
-            fileName: "[project]/components/About.js",
-            lineNumber: 36,
-            columnNumber: 11
-        }, ("TURBOPACK compile-time value", void 0)),
-        title: "Kleskode",
-        text: "Penklær med et kystnært preg. Ta med sko som takler brygger og svaberg (placeholder)."
-    }
-];
 function About() {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
-        id: "om",
-        className: "section-padding bg-mist",
+        id: "velkommen",
+        className: "bg-mist px-6 pb-20 pt-10 md:px-12 md:pb-28 md:pt-14",
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-            className: "mx-auto max-w-5xl",
+            className: "mx-auto max-w-4xl px-6 text-center",
             children: [
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(RingsIcon, {}, void 0, false, {
+                    fileName: "[project]/components/About.js",
+                    lineNumber: 23,
+                    columnNumber: 9
+                }, this),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
+                    className: "mt-6 heading text-4xl text-steel md:text-5xl",
+                    children: "Vi gifter oss!"
+                }, void 0, false, {
+                    fileName: "[project]/components/About.js",
+                    lineNumber: 24,
+                    columnNumber: 9
+                }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                    className: "mb-16 text-center",
+                    className: "mx-auto mt-8 max-w-xl space-y-5 text-[15px] leading-relaxed text-slate",
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                            className: "eyebrow",
-                            children: "Om bryllupet"
+                            children: "Kjære familie og venner,"
                         }, void 0, false, {
                             fileName: "[project]/components/About.js",
-                            lineNumber: 47,
+                            lineNumber: 28,
                             columnNumber: 11
                         }, this),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                            className: "mt-3 heading text-4xl text-steel md:text-5xl",
-                            children: "Om helgen"
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                            children: "Vi skal gifte oss, og håper du vil dele den store dagen med oss på Lyngør! Ytterst i skjærgården, med sjø og svaberg så langt øyet rekker, er dette et sted vi forbinder med sommer, godt selskap og kvelder som gjerne blir litt lengre enn planlagt."
                         }, void 0, false, {
                             fileName: "[project]/components/About.js",
-                            lineNumber: 48,
+                            lineNumber: 29,
+                            columnNumber: 11
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                            children: "Feiringen går over hele helgen, med vielse i Dypvåg kirke lørdag 7. august."
+                        }, void 0, false, {
+                            fileName: "[project]/components/About.js",
+                            lineNumber: 35,
+                            columnNumber: 11
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                            children: "Svar utbedes innen 15. februar 2027. Svarskjema og praktisk informasjon finner du her på denne siden."
+                        }, void 0, false, {
+                            fileName: "[project]/components/About.js",
+                            lineNumber: 38,
+                            columnNumber: 11
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                            children: "Vi gleder oss til å feire sammen med dere!"
+                        }, void 0, false, {
+                            fileName: "[project]/components/About.js",
+                            lineNumber: 42,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/components/About.js",
-                    lineNumber: 46,
+                    lineNumber: 27,
                     columnNumber: 9
                 }, this),
-                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                    className: "grid gap-12 text-center md:grid-cols-3",
-                    children: items.map((item)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "flex flex-col items-center",
-                            children: [
-                                item.icon,
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                    className: "mt-5 font-display text-2xl text-steel",
-                                    children: item.title
-                                }, void 0, false, {
-                                    fileName: "[project]/components/About.js",
-                                    lineNumber: 57,
-                                    columnNumber: 15
-                                }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                    className: "mt-3 max-w-xs text-sm leading-relaxed text-slate",
-                                    children: item.text
-                                }, void 0, false, {
-                                    fileName: "[project]/components/About.js",
-                                    lineNumber: 60,
-                                    columnNumber: 15
-                                }, this)
-                            ]
-                        }, item.title, true, {
-                            fileName: "[project]/components/About.js",
-                            lineNumber: 55,
-                            columnNumber: 13
-                        }, this))
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                    className: "mt-8 font-display text-lg italic text-steel",
+                    children: "Amalie & Ole Andreas"
                 }, void 0, false, {
                     fileName: "[project]/components/About.js",
-                    lineNumber: 53,
+                    lineNumber: 46,
                     columnNumber: 9
                 }, this)
             ]
         }, void 0, true, {
             fileName: "[project]/components/About.js",
-            lineNumber: 45,
+            lineNumber: 22,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/components/About.js",
-        lineNumber: 44,
+        lineNumber: 18,
         columnNumber: 5
     }, this);
 }
@@ -326,7 +246,7 @@ function Footer() {
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                 className: "heading text-3xl",
-                children: "Amalie & Ole Andreas"
+                children: "A & O"
             }, void 0, false, {
                 fileName: "[project]/components/Footer.js",
                 lineNumber: 4,
@@ -338,14 +258,6 @@ function Footer() {
             }, void 0, false, {
                 fileName: "[project]/components/Footer.js",
                 lineNumber: 5,
-                columnNumber: 7
-            }, this),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                className: "mt-6 text-xs text-slate",
-                children: "Vi gleder oss til å feire sammen med dere."
-            }, void 0, false, {
-                fileName: "[project]/components/Footer.js",
-                lineNumber: 8,
                 columnNumber: 7
             }, this)
         ]
@@ -370,7 +282,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$components$2f$Lighthouse$2e$
 function Hero() {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
         id: "hjem",
-        className: "relative flex min-h-screen flex-col items-center justify-end overflow-hidden bg-navy px-6 pb-20 pt-24 text-mist",
+        className: "relative flex min-h-screen flex-col items-center justify-end overflow-hidden bg-navy px-6 pb-8 pt-24 text-mist",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "absolute inset-0 bg-gradient-to-b from-steel/60 via-navy to-navy"
@@ -395,7 +307,7 @@ function Hero() {
                 className: "relative z-10 flex flex-col items-center text-center",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                        className: "heading text-4xl leading-tight md:text-7xl",
+                        className: "heading text-4xl leading-tight md:text-6xl",
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                 className: "whitespace-nowrap",
@@ -435,7 +347,7 @@ function Hero() {
                         columnNumber: 8
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "mx-auto mt-8 flex max-w-md items-center justify-center gap-4",
+                        className: "mx-auto mt-6 flex max-w-md items-center justify-center gap-4",
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                 className: "h-px flex-1 bg-mist/40"
@@ -471,6 +383,15 @@ function Hero() {
                     }, void 0, false, {
                         fileName: "[project]/components/Hero.js",
                         lineNumber: 28,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                        href: "#rsvp",
+                        className: "mt-6 inline-block rounded-full border border-mist/70 px-10 py-3 text-xs uppercase tracking-[0.3em] transition-colors hover:bg-mist hover:text-navy",
+                        children: "RSVP"
+                    }, void 0, false, {
+                        fileName: "[project]/components/Hero.js",
+                        lineNumber: 31,
                         columnNumber: 9
                     }, this)
                 ]
@@ -570,28 +491,57 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist
 ;
 const faqs = [
     {
-        q: "Hvordan kommer jeg meg til Lyngør?",
-        a: "Lyngør er en øy uten bilvei. Kjør til Gjeving og ta båt/vannbuss ut til Lyngør. Detaljert reisebeskrivelse og båttider legges ut her (placeholder)."
+        q: "Overnatting",
+        a: "Vi har booket hele Hotell Lyngørporten til bryllupshelgen. Egenandelen er 3000 kr per person og dekker overnatting og frokost for helgen. Detaljer om booking og betaling finner du i RSVP-skjemaet."
     },
     {
-        q: "Hvor kan jeg parkere?",
-        a: "Det er parkering på fastlandet ved Gjeving brygge. Adresse og pris kommer (placeholder)."
+        q: "Transport",
+        a: "Vi anbefaler å komme med bil. Det er god parkeringskapasitet ved hotellet, men samkjør gjerne hvis dere har mulighet. Kommer du med båt, anbefaler vi at du tar kontakt med hotellet for å høre hvilke muligheter som finnes i Gjeving."
     },
     {
-        q: "Hvor bor jeg?",
-        a: "Vi anbefaler overnatting på Lyngør eller i nærområdet. Forslag til hoteller, gjestehus og hytter kommer her (placeholder)."
+        q: "Kleskode",
+        a: "Fredag: Sommerlig pent, f.eks. kjole + strikkegenser, skjorte + chinos eller lindress. Lørdag: Smoking/mørk dress/lang kjole."
     },
     {
-        q: "Hva er kleskoden?",
-        a: "Penklær med et kystnært preg. Ta med behagelige sko for brygger og svaberg (placeholder)."
+        q: "Pakkeliste",
+        a: "Sjekk værmeldingen og pakk for skiftende kystvær. Selv på varme sommerdager kan det blåse litt ved sjøen, så en strikkegenser og lett vindjakke kan være god å ha med. Badetøy er også fint hvis du får lyst på en dukkert. Til fredagens svabergspils anbefaler vi flate sko."
     },
     {
-        q: "Kan jeg ta med barn?",
-        a: "Gi oss beskjed i RSVP-skjemaet, så finner vi en løsning (placeholder)."
+        q: "Allergier og andre behov",
+        a: "Gi beskjed i RSVP-skjemaet, så gjør vi vårt beste for å tilrettelegge."
     },
     {
-        q: "Allergier og spesielle behov?",
-        a: "Noter det i RSVP-skjemaet, så tar vi hensyn til det (placeholder)."
+        q: "Taler og innslag",
+        a: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Fragment"], {
+            children: [
+                " Ønsker du å holde tale eller bidra med et innslag i løpet av bryllupshelgen? Ta kontakt med vår toastmaster Sven Ole Nicolaysen på ",
+                " ",
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                    href: "mailto:sven.nicolaysen@gmail.com",
+                    className: "text-steel underline underline-offset-2 hover:text-slate",
+                    children: "sven.nicolaysen@gmail.com"
+                }, void 0, false, {
+                    fileName: "[project]/components/PraktiskInfo.js",
+                    lineNumber: 25,
+                    columnNumber: 11
+                }, ("TURBOPACK compile-time value", void 0)),
+                ". "
+            ]
+        }, void 0, true, {
+            fileName: "[project]/components/PraktiskInfo.js",
+            lineNumber: 24,
+            columnNumber: 9
+        }, ("TURBOPACK compile-time value", void 0))
+    },
+    {
+        q: "Bryllupsgave",
+        a: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Fragment"], {
+            children: " Det viktigste for oss er at dere kommer og feirer dagen sammen med oss. Vi forventer derfor ingen bryllupsgave, men blir veldig glade for et hyggelig kort ♡ "
+        }, void 0, false, {
+            fileName: "[project]/components/PraktiskInfo.js",
+            lineNumber: 35,
+            columnNumber: 9
+        }, ("TURBOPACK compile-time value", void 0))
     }
 ];
 function PraktiskInfo() {
@@ -609,7 +559,7 @@ function PraktiskInfo() {
                             children: "Godt å vite"
                         }, void 0, false, {
                             fileName: "[project]/components/PraktiskInfo.js",
-                            lineNumber: 33,
+                            lineNumber: 44,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
@@ -617,13 +567,13 @@ function PraktiskInfo() {
                             children: "Praktisk info"
                         }, void 0, false, {
                             fileName: "[project]/components/PraktiskInfo.js",
-                            lineNumber: 34,
+                            lineNumber: 45,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/components/PraktiskInfo.js",
-                    lineNumber: 32,
+                    lineNumber: 43,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -640,13 +590,13 @@ function PraktiskInfo() {
                                             children: "+"
                                         }, void 0, false, {
                                             fileName: "[project]/components/PraktiskInfo.js",
-                                            lineNumber: 47,
+                                            lineNumber: 58,
                                             columnNumber: 17
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/PraktiskInfo.js",
-                                    lineNumber: 45,
+                                    lineNumber: 56,
                                     columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -654,29 +604,29 @@ function PraktiskInfo() {
                                     children: faq.a
                                 }, void 0, false, {
                                     fileName: "[project]/components/PraktiskInfo.js",
-                                    lineNumber: 51,
+                                    lineNumber: 62,
                                     columnNumber: 15
                                 }, this)
                             ]
                         }, faq.q, true, {
                             fileName: "[project]/components/PraktiskInfo.js",
-                            lineNumber: 41,
+                            lineNumber: 52,
                             columnNumber: 13
                         }, this))
                 }, void 0, false, {
                     fileName: "[project]/components/PraktiskInfo.js",
-                    lineNumber: 39,
+                    lineNumber: 50,
                     columnNumber: 9
                 }, this)
             ]
         }, void 0, true, {
             fileName: "[project]/components/PraktiskInfo.js",
-            lineNumber: 31,
+            lineNumber: 42,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/components/PraktiskInfo.js",
-        lineNumber: 30,
+        lineNumber: 41,
         columnNumber: 5
     }, this);
 }
@@ -695,14 +645,19 @@ const days = [
         date: "Fredag 6. august",
         items: [
             {
-                time: "16:00",
+                time: "15:00",
                 title: "Ankomst & innsjekk",
-                text: "Kom deg ut til Lyngør, finn deg til rette og nyt utsikten (placeholder)."
+                text: "Innsjekk på hotellet er tilgjengelig fra kl. 15:00."
+            },
+            {
+                time: "17:00",
+                title: "Svabergspils",
+                text: "Hvis værgudene spiller på lag, blir det pils og bobler ved hytta til Amalie. Vi ordner båttransport fra hotellet til Lyngør."
             },
             {
                 time: "19:00",
-                title: "Velkomstmiddag",
-                text: "Uformell samling for tilreisende gjester (placeholder)."
+                title: "Velkomstmiddag på Seilmakeren",
+                text: "Pizza, noe godt i glasset og tid til å bli kjent med hverandre før den store dagen. Vi ordner båttransport tilbake til hotellet."
             }
         ]
     },
@@ -710,24 +665,24 @@ const days = [
         date: "Lørdag 7. august",
         items: [
             {
-                time: "13:00",
+                time: "09:00",
+                title: "Frokost",
+                text: "Frokost serveres i hotellets restaurant fra kl. 08:00-10:00"
+            },
+            {
+                time: "14:30",
                 title: "Vielse",
-                text: "Våre løfter ved sjøen (placeholder sted)."
+                text: "Vielsen finner sted i Dypvåg kirke. Transport til og fra kirken ordnes av oss, og informasjon om oppmøtested og avgang fra hotellet kommer nærmere bryllupet."
             },
             {
-                time: "14:00",
-                title: "Mingling & foto",
-                text: "Bobler og små biter mens vi fanger øyeblikkene."
+                time: "15:30",
+                title: "Mingling og seillas",
+                text: "Etter vielsen tar vi sjøveien til Lyngørporten. Her blir det tid til mingling, noe godt i glasset og en liten smak av sørlandssommeren."
             },
             {
-                time: "17:00",
-                title: "Bryllupsmiddag",
-                text: "God mat, varme taler og gode historier."
-            },
-            {
-                time: "21:00",
-                title: "Fest & dans",
-                text: "En avslappet kveld med dans til langt på natt."
+                time: "17:30",
+                title: "Middag og fest",
+                text: "Bryllupsmiddag med påfølgende fest på Hotell Lyngørporten."
             }
         ]
     },
@@ -735,74 +690,19 @@ const days = [
         date: "Søndag 8. august",
         items: [
             {
-                time: "11:00",
+                time: "09:00",
                 title: "Frokost & farvel",
-                text: "Felles brunsj før hjemreise (placeholder)."
+                text: "Frokost før vi sier takk for helgen og setter kursen hjemover."
             }
         ]
     }
 ];
-const Anchor = ()=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
-        viewBox: "0 0 80 120",
-        className: "h-40 w-auto",
-        fill: "none",
-        stroke: "#67717E",
-        strokeWidth: "2",
-        children: [
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("circle", {
-                cx: "40",
-                cy: "16",
-                r: "9"
-            }, void 0, false, {
-                fileName: "[project]/components/Program.js",
-                lineNumber: 56,
-                columnNumber: 5
-            }, ("TURBOPACK compile-time value", void 0)),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                d: "M40 25v80",
-                strokeLinecap: "round"
-            }, void 0, false, {
-                fileName: "[project]/components/Program.js",
-                lineNumber: 57,
-                columnNumber: 5
-            }, ("TURBOPACK compile-time value", void 0)),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                d: "M20 45h40",
-                strokeLinecap: "round"
-            }, void 0, false, {
-                fileName: "[project]/components/Program.js",
-                lineNumber: 58,
-                columnNumber: 5
-            }, ("TURBOPACK compile-time value", void 0)),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                d: "M12 82c0 18 14 26 28 26s28-8 28-26",
-                strokeLinecap: "round"
-            }, void 0, false, {
-                fileName: "[project]/components/Program.js",
-                lineNumber: 59,
-                columnNumber: 5
-            }, ("TURBOPACK compile-time value", void 0)),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                d: "M12 82l-7 6 9 2M68 82l7 6-9 2",
-                strokeLinecap: "round",
-                strokeLinejoin: "round"
-            }, void 0, false, {
-                fileName: "[project]/components/Program.js",
-                lineNumber: 60,
-                columnNumber: 5
-            }, ("TURBOPACK compile-time value", void 0))
-        ]
-    }, void 0, true, {
-        fileName: "[project]/components/Program.js",
-        lineNumber: 55,
-        columnNumber: 3
-    }, ("TURBOPACK compile-time value", void 0));
 function Program() {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
         id: "program",
         className: "section-padding bg-linen",
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-            className: "mx-auto max-w-4xl",
+            className: "mx-auto max-w-3xl",
             children: [
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: "mb-16 text-center",
@@ -812,7 +712,7 @@ function Program() {
                             children: "Helgen"
                         }, void 0, false, {
                             fileName: "[project]/components/Program.js",
-                            lineNumber: 69,
+                            lineNumber: 64,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
@@ -820,116 +720,95 @@ function Program() {
                             children: "Program"
                         }, void 0, false, {
                             fileName: "[project]/components/Program.js",
-                            lineNumber: 70,
+                            lineNumber: 65,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/components/Program.js",
-                    lineNumber: 68,
+                    lineNumber: 63,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                    className: "grid items-start gap-10 md:grid-cols-[auto,1fr]",
-                    children: [
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "hidden justify-center pt-6 text-slate md:flex",
-                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(Anchor, {}, void 0, false, {
-                                fileName: "[project]/components/Program.js",
-                                lineNumber: 77,
-                                columnNumber: 13
-                            }, this)
-                        }, void 0, false, {
-                            fileName: "[project]/components/Program.js",
-                            lineNumber: 76,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "space-y-12",
-                            children: days.map((day)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                    children: [
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                            className: "font-display text-2xl text-slate",
-                                            children: day.date
-                                        }, void 0, false, {
-                                            fileName: "[project]/components/Program.js",
-                                            lineNumber: 83,
-                                            columnNumber: 17
-                                        }, this),
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
-                                            className: "mt-5 space-y-5",
-                                            children: day.items.map((item)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                    className: "flex flex-col gap-1 border-b border-dotted border-steel/40 pb-4 sm:flex-row sm:items-baseline sm:gap-6",
+                    className: "space-y-12",
+                    children: days.map((day)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                            children: [
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                    className: "font-display text-2xl text-slate",
+                                    children: day.date
+                                }, void 0, false, {
+                                    fileName: "[project]/components/Program.js",
+                                    lineNumber: 73,
+                                    columnNumber: 17
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
+                                    className: "mt-5 space-y-5",
+                                    children: day.items.map((item)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                            className: "flex flex-col gap-1 border-b border-dotted border-steel/40 pb-4 sm:flex-row sm:items-baseline sm:gap-6",
+                                            children: [
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                    className: "w-20 shrink-0 font-display text-xl text-steel",
+                                                    children: item.time
+                                                }, void 0, false, {
+                                                    fileName: "[project]/components/Program.js",
+                                                    lineNumber: 80,
+                                                    columnNumber: 23
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                     children: [
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                            className: "w-20 shrink-0 font-display text-xl text-steel",
-                                                            children: item.time
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                            className: "text-lg text-steel",
+                                                            children: item.title
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/Program.js",
-                                                            lineNumber: 90,
-                                                            columnNumber: 23
+                                                            lineNumber: 84,
+                                                            columnNumber: 25
                                                         }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                            children: [
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                                    className: "text-lg text-steel",
-                                                                    children: item.title
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/components/Program.js",
-                                                                    lineNumber: 94,
-                                                                    columnNumber: 25
-                                                                }, this),
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                                    className: "mt-1 text-sm text-slate",
-                                                                    children: item.text
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/components/Program.js",
-                                                                    lineNumber: 95,
-                                                                    columnNumber: 25
-                                                                }, this)
-                                                            ]
-                                                        }, void 0, true, {
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                            className: "mt-1 text-sm text-slate",
+                                                            children: item.text
+                                                        }, void 0, false, {
                                                             fileName: "[project]/components/Program.js",
-                                                            lineNumber: 93,
-                                                            columnNumber: 23
+                                                            lineNumber: 85,
+                                                            columnNumber: 25
                                                         }, this)
                                                     ]
-                                                }, item.time, true, {
+                                                }, void 0, true, {
                                                     fileName: "[project]/components/Program.js",
-                                                    lineNumber: 86,
-                                                    columnNumber: 21
-                                                }, this))
-                                        }, void 0, false, {
+                                                    lineNumber: 83,
+                                                    columnNumber: 23
+                                                }, this)
+                                            ]
+                                        }, item.time, true, {
                                             fileName: "[project]/components/Program.js",
-                                            lineNumber: 84,
-                                            columnNumber: 17
-                                        }, this)
-                                    ]
-                                }, day.date, true, {
+                                            lineNumber: 76,
+                                            columnNumber: 21
+                                        }, this))
+                                }, void 0, false, {
                                     fileName: "[project]/components/Program.js",
-                                    lineNumber: 82,
-                                    columnNumber: 15
-                                }, this))
-                        }, void 0, false, {
+                                    lineNumber: 74,
+                                    columnNumber: 17
+                                }, this)
+                            ]
+                        }, day.date, true, {
                             fileName: "[project]/components/Program.js",
-                            lineNumber: 80,
-                            columnNumber: 11
-                        }, this)
-                    ]
-                }, void 0, true, {
+                            lineNumber: 72,
+                            columnNumber: 15
+                        }, this))
+                }, void 0, false, {
                     fileName: "[project]/components/Program.js",
-                    lineNumber: 75,
-                    columnNumber: 9
+                    lineNumber: 70,
+                    columnNumber: 11
                 }, this)
             ]
         }, void 0, true, {
             fileName: "[project]/components/Program.js",
-            lineNumber: 67,
+            lineNumber: 62,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/components/Program.js",
-        lineNumber: 66,
+        lineNumber: 61,
         columnNumber: 5
     }, this);
 }
@@ -952,11 +831,11 @@ function Rsvp() {
         id: "rsvp",
         className: "section-padding bg-linen",
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-            className: "mx-auto max-w-2xl text-center",
+            className: "mx-auto max-w-3xl text-center",
             children: [
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                     className: "eyebrow",
-                    children: "Gi oss beskjed"
+                    children: "Kan du komme i bryllupet?"
                 }, void 0, false, {
                     fileName: "[project]/components/Rsvp.js",
                     lineNumber: 10,
@@ -970,29 +849,21 @@ function Rsvp() {
                     lineNumber: 11,
                     columnNumber: 9
                 }, this),
-                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                    className: "mx-auto mt-4 max-w-xl text-sm leading-relaxed text-slate",
-                    children: "Vi setter stor pris på om du svarer innen (placeholder dato). Fyll ut skjemaet under."
-                }, void 0, false, {
-                    fileName: "[project]/components/Rsvp.js",
-                    lineNumber: 12,
-                    columnNumber: 9
-                }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: "mt-12",
                     children: ("TURBOPACK compile-time truthy", 1) ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("iframe", {
                         src: FORM_EMBED_URL,
                         title: "RSVP-skjema",
-                        className: "h-[900px] w-full rounded-lg border border-stone",
+                        className: "h-[1370px] w-full rounded-lg border border-stone",
                         children: "Laster skjema…"
                     }, void 0, false, {
                         fileName: "[project]/components/Rsvp.js",
-                        lineNumber: 19,
+                        lineNumber: 15,
                         columnNumber: 13
                     }, this) : "TURBOPACK unreachable"
                 }, void 0, false, {
                     fileName: "[project]/components/Rsvp.js",
-                    lineNumber: 17,
+                    lineNumber: 13,
                     columnNumber: 9
                 }, this)
             ]

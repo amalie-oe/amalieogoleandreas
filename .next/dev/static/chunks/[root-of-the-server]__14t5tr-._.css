@@ -716,6 +716,10 @@ img, video {
   display: block;
 }
 
+.inline-block {
+  display: inline-block;
+}
+
 .flex {
   display: flex;
 }
@@ -748,6 +752,14 @@ img, video {
   height: 1px;
 }
 
+.h-16 {
+  height: 4rem;
+}
+
+.h-\[1370px\] {
+  height: 1370px;
+}
+
 .min-h-screen {
   min-height: 100vh;
 }
@@ -766,6 +778,10 @@ img, video {
 
 .w-full {
   width: 100%;
+}
+
+.w-16 {
+  width: 4rem;
 }
 
 .max-w-2xl {
@@ -890,6 +906,10 @@ img, video {
   border-radius: .5rem;
 }
 
+.rounded-full {
+  border-radius: 9999px;
+}
+
 .border {
   border-width: 1px;
 }
@@ -921,6 +941,10 @@ img, video {
 .border-stone {
   --tw-border-opacity: 1;
   border-color: rgb(173 166 155 / var(--tw-border-opacity, 1));
+}
+
+.border-mist\/70 {
+  border-color: #d8d8d6b3;
 }
 
 .bg-linen {
@@ -1012,6 +1036,16 @@ img, video {
   padding-bottom: 1rem;
 }
 
+.px-10 {
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
+}
+
+.py-3 {
+  padding-top: .75rem;
+  padding-bottom: .75rem;
+}
+
 .pb-20 {
   padding-bottom: 5rem;
 }
@@ -1026,6 +1060,14 @@ img, video {
 
 .pt-6 {
   padding-top: 1.5rem;
+}
+
+.pb-8 {
+  padding-bottom: 2rem;
+}
+
+.pt-10 {
+  padding-top: 2.5rem;
 }
 
 .text-center {
@@ -1080,12 +1122,20 @@ img, video {
   line-height: 1rem;
 }
 
+.text-\[15px\] {
+  font-size: 15px;
+}
+
 .font-light {
   font-weight: 300;
 }
 
 .uppercase {
   text-transform: uppercase;
+}
+
+.italic {
+  font-style: italic;
 }
 
 .leading-relaxed {
@@ -1122,6 +1172,14 @@ img, video {
 .text-stone {
   --tw-text-opacity: 1;
   color: rgb(173 166 155 / var(--tw-text-opacity, 1));
+}
+
+.underline {
+  text-decoration-line: underline;
+}
+
+.underline-offset-2 {
+  text-underline-offset: 2px;
 }
 
 .antialiased {
@@ -1214,9 +1272,19 @@ body {
   animation: 4.5s ease-in-out infinite glowPulse;
 }
 
+.hover\:bg-mist:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(216 216 214 / var(--tw-bg-opacity, 1));
+}
+
 .hover\:text-slate:hover {
   --tw-text-opacity: 1;
   color: rgb(103 113 126 / var(--tw-text-opacity, 1));
+}
+
+.hover\:text-navy:hover {
+  --tw-text-opacity: 1;
+  color: rgb(56 65 79 / var(--tw-text-opacity, 1));
 }
 
 .group[open] .group-open\:rotate-45 {
@@ -1253,6 +1321,19 @@ body {
 
   .md\:grid-cols-\[auto\,1fr\] {
     grid-template-columns: auto 1fr;
+  }
+
+  .md\:px-12 {
+    padding-left: 3rem;
+    padding-right: 3rem;
+  }
+
+  .md\:pb-28 {
+    padding-bottom: 7rem;
+  }
+
+  .md\:pt-14 {
+    padding-top: 3.5rem;
   }
 
   .md\:text-5xl {
