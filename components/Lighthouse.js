@@ -61,8 +61,8 @@ export default function Lighthouse() {
 
       {/* Grunn / skjær */}
       <ellipse cx="600" cy="450.8" rx="70" ry="21" fill="#98B4C7" />
-      <ellipse cx="552.2" cy="469.8" rx="52" ry="23.8" fill="#C8D9E6" />
-      <ellipse cx="663.4" cy="464.8" rx="29.2" ry="16.8" fill="#C8D9E6" />
+      <ellipse cx="552.2" cy="469.8" rx="52" ry="23.8" fill="#3D5A80" />
+      <ellipse cx="663.4" cy="464.8" rx="29.2" ry="16.8" fill="#3D5A80" />
 
       {/* Tårn */}
       <polygon
