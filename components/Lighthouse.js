@@ -83,7 +83,7 @@ export default function Lighthouse() {
       <rect x="563.6" y="229.6" width="72.8" height="12.6" rx="3" fill="#1B263B" />
 
       {/* Lanterne-rom */}
-      <rect x="577.6" y="190.4" width="44.8" height="39.2" fill="#3D5A80" />
+      <rect x="577.6" y="190.4" width="44.8" height="39.2" fill="#1B263B" />
       <circle cx="600" cy="210" r="10" fill="#F2EFE8" />
       <circle cx="600" cy="210" r="30" fill="url(#glow)" className="animate-glow" />
 
