@@ -42,7 +42,8 @@ export default function Lighthouse() {
         </radialGradient>
         <radialGradient
           id="floodGrad"
-@@ -47,8 +47,8 @@
+          cx="600"
+          cy="300"
           r="640"
           gradientUnits="userSpaceOnUse"
         >
@@ -51,7 +52,11 @@ export default function Lighthouse() {
         </radialGradient>
         <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
           <stop offset="0" stopColor="#F2EFE8" stopOpacity="0.95" />
-@@ -60,46 +60,46 @@
+          <stop offset="1" stopColor="#F2EFE8" stopOpacity="0" />
+        </radialGradient>
+      </defs>
+
+      {/* Lysstråle bak tårnet */}
       <polygon points={beam} fill="url(#beamGrad)" />
 
       {/* Grunn / skjær */}
