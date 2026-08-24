@@ -67,7 +67,7 @@ export default function Lighthouse() {
       {/* Tårn */}
       <polygon
         points="580.4,240.8 619.6,240.8 630.8,436.8 569.2,436.8"
-        fill="#C8D9E6"
+        fill="#F2EFE7"
       />
       <polygon
         points="577.32,294 622.68,294 624.08,319.2 575.92,319.2"
