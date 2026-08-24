@@ -3,7 +3,7 @@ const days = [
     date: "Fredag 6. august",
     items: [
       {
-        time: "15:00",
+        time: "15:00 - 17:00",
         title: "Ankomst & innsjekk",
         text: "Innsjekk på hotellet er tilgjengelig fra kl. 15:00.",
       },
@@ -23,7 +23,7 @@ const days = [
     date: "Lørdag 7. august",
     items: [
       {
-        time: "09:00",
+        time: "08:00 - 10:00",
         title: "Frokost",
         text: "Frokost serveres i hotellets restaurant fra kl. 08:00-10:00",
       },
@@ -48,7 +48,7 @@ const days = [
     date: "Søndag 8. august",
     items: [
       {
-        time: "09:00",
+        time: "09:00 - 11:00",
         title: "Frokost & farvel",
         text: "Frokost før vi sier takk for helgen og setter kursen hjemover.",
       },
