@@ -7,12 +7,12 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        mist: "#D8D8D6",
-        linen: "#CBC4B9",
-        stone: "#ADA69B",
-        slate: "#67717E",
-        steel: "#45505F",
-        navy: "#38414F",
+        mist: "#F0EFEA",
+        linen: "#D3DBF0",
+        stone: "#7B8ECD",
+        slate: "#33415E",
+        steel: "#33415E",
+        navy: "#33415E",
       },
       fontFamily: {
         display: ["var(--font-display)", "serif"],
