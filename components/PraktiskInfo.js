@@ -9,7 +9,7 @@ const faqs = [
   },
   {
     q: "Kleskode",
-    a: "Fredag: Sommerlig pent, f.eks. kjole + strikkegenser, skjorte + chinos eller lindress. Lørdag: Smoking/mørk dress/lang kjole.",
+    a: "Fredag: Sommerlig pent. Lørdag: Smoking/mørk dress/lang kjole.",
   },
   {
     q: "Pakkeliste",
