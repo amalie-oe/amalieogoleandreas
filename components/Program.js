@@ -34,7 +34,7 @@ const days = [
       },
       {
         time: "15:30",
-        title: "Mingling og seillas",
+        title: "Mingling og seilas",
         text: "Etter vielsen tar vi sjøveien til Lyngørporten. Her blir det tid til mingling, noe godt i glasset og en liten smak av sørlandssommeren.",
       },
       {
