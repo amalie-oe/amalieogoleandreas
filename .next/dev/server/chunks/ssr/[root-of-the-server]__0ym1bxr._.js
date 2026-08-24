@@ -500,7 +500,7 @@ const faqs = [
     },
     {
         q: "Kleskode",
-        a: "Fredag: Sommerlig pent, f.eks. kjole + strikkegenser, skjorte + chinos eller lindress. Lørdag: Smoking/mørk dress/lang kjole."
+        a: "Fredag: Sommerlig pent. Lørdag: Smoking/mørk dress/lang kjole."
     },
     {
         q: "Pakkeliste",
@@ -645,7 +645,7 @@ const days = [
         date: "Fredag 6. august",
         items: [
             {
-                time: "15:00",
+                time: "15:00 - 17:00",
                 title: "Ankomst & innsjekk",
                 text: "Innsjekk på hotellet er tilgjengelig fra kl. 15:00."
             },
@@ -665,7 +665,7 @@ const days = [
         date: "Lørdag 7. august",
         items: [
             {
-                time: "09:00",
+                time: "08:00 - 10:00",
                 title: "Frokost",
                 text: "Frokost serveres i hotellets restaurant fra kl. 08:00-10:00"
             },
@@ -676,7 +676,7 @@ const days = [
             },
             {
                 time: "15:30",
-                title: "Mingling og seillas",
+                title: "Mingling og seilas",
                 text: "Etter vielsen tar vi sjøveien til Lyngørporten. Her blir det tid til mingling, noe godt i glasset og en liten smak av sørlandssommeren."
             },
             {
@@ -690,7 +690,7 @@ const days = [
         date: "Søndag 8. august",
         items: [
             {
-                time: "09:00",
+                time: "09:00 - 11:00",
                 title: "Frokost & farvel",
                 text: "Frokost før vi sier takk for helgen og setter kursen hjemover."
             }

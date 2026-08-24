@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 78, "column": 0}, "map": {"version":3,"sources":["file:///Users/amalieoe/Desktop/amalieogoleandreas/app/apple-icon--route-entry.js"],"sourcesContent":["import { NextResponse } from 'next/server'\nimport { default as handler } from \"./apple-icon.js\"\n\nif (typeof handler !== 'function') {\n    throw new Error('Default export is missing in \"./apple-icon.js\"')\n}\n\nexport async function GET(_, ctx) {\n    return handler({ params: ctx.params })\n}\n\nexport * from \"./apple-icon.js\"\n"],"names":["handler","Error","GET","_","ctx","params"],"mappings":";;;;AAAA;;;;;;;;AAGA,IAAI,OAAOA,YAAY,YAAY;IAC/B,MAAM,IAAIC,MAAM;AACpB;AAEO,eAAeC,IAAIC,CAAC,EAAEC,GAAG;IAC5B,OAAOJ,QAAQ;QAAEK,QAAQD,IAAIC,MAAM;IAAC;AACxC"}}]
+}
