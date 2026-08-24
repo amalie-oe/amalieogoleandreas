@@ -1,8 +1,8 @@
 export const palette = {
-  mist: "#F0EFEA", //Ivory
-  linen: "#CBC4B9", //Sky
-  stone: "#7B8ECD", //Periwinkle
-  slate: "#33415E", //Navy
-  steel: "#33415E", //Navy
-  navy: "#33415E",//Navy
+  mist: "#EAF2F8", //ICE BLUE
+  linen: "#F2EFE7", //BEIGE
+  stone: "#98B4C7", //AIRY BLUE
+  slate: "#3D5A80", //STEEL BLUE
+  steel: "#3D5A80", //STEEL BLUE
+  navy: "#1B263B",//NAVY
 };
