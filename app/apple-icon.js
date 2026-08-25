@@ -1,9 +1,23 @@
 import { ImageResponse } from "next/og";
+import { readFileSync } from "fs";
+import { join } from "path";
 
 export const size = { width: 180, height: 180 };
 export const contentType = "image/png";
 
+// Apple-ikon: monogram "A & O" i Playfair (samme & som på forsiden)
 export default function AppleIcon() {
+  const playfair = readFileSync(
+    join(process.cwd(), "app/PlayfairDisplay.ttf")
+  );
+
+  const letter = {
+    color: "#E7E3DC",
+    fontSize: 75,
+    fontFamily: "Playfair",
+    lineHeight: 1,
+  };
+
   return new ImageResponse(
     (
       <div
@@ -13,30 +27,28 @@ export default function AppleIcon() {
           display: "flex",
           alignItems: "center",
           justifyContent: "center",
-          background: "#1B263B",
+          background: "#38414F",
         }}
       >
-        <div
+        <span style={letter}>A</span>
+        <span
           style={{
-            display: "flex",
-            alignItems: "center",
-            justifyContent: "center",
-            width: 132,
-            height: 132,
-            borderRadius: "50%",
-            border: "3px solid rgba(234,242,248,0.5)",
-            color: "#EAF2F8",
-            fontSize: 66,
+            color: "#ADA69B",
+            fontSize: 40,
+            fontFamily: "Playfair",
+            margin: "0 1px",
           }}
         >
-          <span>A</span>
-          <span style={{ color: "#98B4C7", margin: "0 4px", fontSize: 46 }}>
-            &
-          </span>
-          <span>O</span>
-        </div>
+          &
+        </span>
+        <span style={letter}>O</span>
       </div>
     ),
-    { ...size }
+    {
+      ...size,
+      fonts: [
+        { name: "Playfair", data: playfair, weight: 400, style: "normal" },
+      ],
+    }
   );
 }
