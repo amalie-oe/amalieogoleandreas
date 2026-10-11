@@ -7,7 +7,6 @@ export default function Rsvp() {
   return (
     <section id="rsvp" className="section-padding bg-linen">
       <div className="mx-auto max-w-3xl text-center">
-        <p className="eyebrow">Kan du komme i bryllupet?</p>
         <h2 className="mt-3 heading text-3xl text-steel md:text-5xl">RSVP</h2>
 
         <div className="mt-12">
