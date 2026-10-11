@@ -15,7 +15,7 @@ export default function Lighthouse() {
   const y = useScrollY();
   // cos gir start med strålen mot venstre (ingen flom) ved toppen,
   // deretter sveiper den mot deg (flom) og videre mot høyre når du skroller.
-  const s = Math.cos(y / 260); // 1 = venstre, 0 = mot deg, -1 = høyre
+  const s = Math.cos(y / 260 + 0.4); // 1 = venstre, 0 = mot deg, -1 = høyre
   const phi = 90 + s * 70; // 20..160 grader (90 = rett mot betrakteren)
   const flood = Math.max(0, 1 - Math.abs(phi - 90) / 32) * 0.92;
 
