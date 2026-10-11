@@ -31,7 +31,7 @@ function Lighthouse() {
     const y = (0, __TURBOPACK__imported__module__$5b$project$5d2f$components$2f$useScroll$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useScrollY"])();
     // cos gir start med strålen mot venstre (ingen flom) ved toppen,
     // deretter sveiper den mot deg (flom) og videre mot høyre når du skroller.
-    const s = Math.cos(y / 260); // 1 = venstre, 0 = mot deg, -1 = høyre
+    const s = Math.cos(y / 260 + 0.4); // 1 = venstre, 0 = mot deg, -1 = høyre
     const phi = 90 + s * 70; // 20..160 grader (90 = rett mot betrakteren)
     const flood = Math.max(0, 1 - Math.abs(phi - 90) / 32) * 0.92;
     const beam = `${LAMP.x},${LAMP.y} ${edge(phi - HALF)} ${edge(phi + HALF)}`;
@@ -362,9 +362,29 @@ function Nav() {
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                         href: "#hjem",
-                        className: `font-display text-xl tracking-[0.2em] transition-colors ${scrolled ? "text-steel" : "text-mist"}`,
-                        children: "A & O"
-                    }, void 0, false, {
+                        "aria-label": "Til toppen",
+                        className: "relative block h-10 w-12",
+                        children: [
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                src: "/monogram-cream.png",
+                                alt: "",
+                                className: `absolute inset-0 h-10 w-auto transition-opacity duration-300 ${scrolled ? "opacity-0" : "opacity-100"}`
+                            }, void 0, false, {
+                                fileName: "[project]/components/Nav.js",
+                                lineNumber: 32,
+                                columnNumber: 11
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                src: "/monogram-steel.png",
+                                alt: "Amalie og Ole Andreas",
+                                className: `absolute inset-0 h-10 w-auto transition-opacity duration-300 ${scrolled ? "opacity-100" : "opacity-0"}`
+                            }, void 0, false, {
+                                fileName: "[project]/components/Nav.js",
+                                lineNumber: 39,
+                                columnNumber: 11
+                            }, this)
+                        ]
+                    }, void 0, true, {
                         fileName: "[project]/components/Nav.js",
                         lineNumber: 31,
                         columnNumber: 9
@@ -378,17 +398,17 @@ function Nav() {
                                     children: link.label
                                 }, void 0, false, {
                                     fileName: "[project]/components/Nav.js",
-                                    lineNumber: 43,
+                                    lineNumber: 52,
                                     columnNumber: 15
                                 }, this)
                             }, link.href, false, {
                                 fileName: "[project]/components/Nav.js",
-                                lineNumber: 42,
+                                lineNumber: 51,
                                 columnNumber: 13
                             }, this))
                     }, void 0, false, {
                         fileName: "[project]/components/Nav.js",
-                        lineNumber: 40,
+                        lineNumber: 49,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -407,24 +427,24 @@ function Nav() {
                                 d: "M6 6l12 12M18 6L6 18"
                             }, void 0, false, {
                                 fileName: "[project]/components/Nav.js",
-                                lineNumber: 62,
+                                lineNumber: 71,
                                 columnNumber: 15
                             }, this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
                                 strokeLinecap: "round",
                                 d: "M4 7h16M4 12h16M4 17h16"
                             }, void 0, false, {
                                 fileName: "[project]/components/Nav.js",
-                                lineNumber: 64,
+                                lineNumber: 73,
                                 columnNumber: 15
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/components/Nav.js",
-                            lineNumber: 60,
+                            lineNumber: 69,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/components/Nav.js",
-                        lineNumber: 55,
+                        lineNumber: 64,
                         columnNumber: 9
                     }, this)
                 ]
@@ -443,17 +463,17 @@ function Nav() {
                             children: link.label
                         }, void 0, false, {
                             fileName: "[project]/components/Nav.js",
-                            lineNumber: 74,
+                            lineNumber: 83,
                             columnNumber: 15
                         }, this)
                     }, link.href, false, {
                         fileName: "[project]/components/Nav.js",
-                        lineNumber: 73,
+                        lineNumber: 82,
                         columnNumber: 13
                     }, this))
             }, void 0, false, {
                 fileName: "[project]/components/Nav.js",
-                lineNumber: 71,
+                lineNumber: 80,
                 columnNumber: 9
             }, this)
         ]
