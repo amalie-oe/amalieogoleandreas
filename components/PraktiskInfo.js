@@ -41,7 +41,6 @@ export default function PraktiskInfo() {
     <section id="praktisk" className="section-padding bg-mist">
       <div className="mx-auto max-w-3xl">
         <div className="mb-16 text-center">
-          <p className="eyebrow">Godt å vite</p>
           <h2 className="mt-3 heading text-4xl text-steel md:text-5xl">
             Praktisk info
           </h2>
