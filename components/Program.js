@@ -62,7 +62,7 @@ export default function Program() {
       <div className="mx-auto max-w-3xl">
         <div className="mb-16 text-center">
           <h2 className="mt-3 heading text-4xl text-steel md:text-5xl">
-            Program
+            Program for helgen
           </h2>
         </div>
 
