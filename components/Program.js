@@ -82,7 +82,7 @@ export default function Program() {
                       </span>
                       <div>
                         <p className="text-lg text-steel">{item.title}</p>
-                        <p className="mt-1 text-sm text-slate">{item.text}</p>
+                        <p className="mt-1 text-base text-slate">{item.text}</p>
                       </div>
                     </li>
                   ))}
