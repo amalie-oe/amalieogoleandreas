@@ -28,14 +28,23 @@ export default function Nav() {
       }`}
     >
       <nav className="mx-auto flex max-w-5xl items-center justify-between px-6 py-4">
-        <a
-          href="#hjem"
-          className={`font-display text-xl tracking-[0.2em] transition-colors ${
-            scrolled ? "text-steel" : "text-mist"
-          }`}
-        >
-          A &amp; O
+        <a href="#hjem" aria-label="Til toppen" className="relative block h-10 w-12">
+          <img
+            src="/monogram-cream.png"
+            alt=""
+            className={`absolute inset-0 h-10 w-auto transition-opacity duration-300 ${
+              scrolled ? "opacity-0" : "opacity-100"
+            }`}
+          />
+          <img
+            src="/monogram-steel.png"
+            alt="Amalie og Ole Andreas"
+            className={`absolute inset-0 h-10 w-auto transition-opacity duration-300 ${
+              scrolled ? "opacity-100" : "opacity-0"
+            }`}
+          />
         </a>
+
 
         <ul className="hidden items-center gap-8 md:flex">
           {links.map((link) => (
