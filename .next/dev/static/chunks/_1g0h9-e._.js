@@ -378,12 +378,12 @@ function Nav() {
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                         href: "#hjem",
                         "aria-label": "Til toppen",
-                        className: "relative block h-10 w-12",
+                        className: "relative block h-5 w-10",
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                                 src: "/monogram-cream.png",
                                 alt: "",
-                                className: `absolute inset-0 h-10 w-auto transition-opacity duration-300 ${scrolled ? "opacity-0" : "opacity-100"}`
+                                className: `absolute inset-0 h-5 w-auto transition-opacity duration-300 ${scrolled ? "opacity-0" : "opacity-100"}`
                             }, void 0, false, {
                                 fileName: "[project]/components/Nav.js",
                                 lineNumber: 32,
@@ -392,7 +392,7 @@ function Nav() {
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                                 src: "/monogram-steel.png",
                                 alt: "Amalie og Ole Andreas",
-                                className: `absolute inset-0 h-10 w-auto transition-opacity duration-300 ${scrolled ? "opacity-100" : "opacity-0"}`
+                                className: `absolute inset-0 h-5 w-auto transition-opacity duration-300 ${scrolled ? "opacity-100" : "opacity-0"}`
                             }, void 0, false, {
                                 fileName: "[project]/components/Nav.js",
                                 lineNumber: 39,

@@ -20,17 +20,9 @@ export default function Hero() {
           <span className="whitespace-nowrap">Ole Andreas</span> 
         </h1>
 
-        <div className="mx-auto mt-6 flex max-w-md items-center justify-center gap-4">
-          <span className="h-px flex-1 bg-mist/40" />
-          <p className="text-sm uppercase tracking-[0.3em]">6.-8. august</p>
-          <span className="h-px flex-1 bg-mist/40" />
-        </div>
-        <p className="mt-3 text-sm uppercase tracking-[0.3em] text-stone">
-          Lyngør / Gjeving
-        </p>
         <a
           href="#rsvp"
-          className="mt-6 inline-block rounded-full border border-mist/70 px-10 py-3 text-xs uppercase tracking-[0.3em] transition-colors hover:bg-mist hover:text-navy"
+          className="mt-12 mb-12 inline-block rounded-full border border-mist/70 px-10 py-3 text-xs uppercase tracking-[0.3em] transition-colors hover:bg-mist hover:text-navy"
         >
           RSVP
         </a>
