@@ -59,7 +59,7 @@ export default function PraktiskInfo() {
                   +
                 </span>
               </summary>
-              <p className="mt-3 text-sm leading-relaxed text-slate">{faq.a}</p>
+              <p className="mt-3 text-base leading-relaxed text-slate">{faq.a}</p>
             </details>
           ))}
         </div>
