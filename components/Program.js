@@ -77,7 +77,7 @@ export default function Program() {
                       key={item.time}
                       className="flex flex-col gap-1 border-b border-dotted border-steel/40 pb-4 sm:flex-row sm:items-baseline sm:gap-6"
                     >
-                      <span className="w-20 shrink-0 font-display text-xl text-steel">
+                      <span className="shrink-0 whitespace-nowrap font-display text-xl text-steel sm:min-w-[7.5rem]">
                         {item.time}
                       </span>
                       <div>
