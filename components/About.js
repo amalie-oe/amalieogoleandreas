@@ -24,7 +24,7 @@ export default function About() {
         <h2 className="mt-6 heading text-4xl text-steel md:text-5xl">
           Vi gifter oss!
         </h2>
-        <div className="mx-auto mt-8 max-w-xl space-y-5 text-[15px] leading-relaxed text-slate">
+        <div className="mx-auto mt-8 max-w-xl space-y-5 text-[16px] leading-relaxed text-slate">
           <p>Kjære familie og venner,</p>
           <p>
             Vi skal gifte oss, og håper du vil dele den store dagen med oss på Lyngør! 
