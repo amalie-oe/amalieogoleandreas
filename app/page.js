@@ -18,6 +18,7 @@ export default function Home() {
       <Program />
       <PraktiskInfo />
       <Rsvp />
+      <Wave from={palette.linen} to={palette.navy} accent={palette.slate} />
       <Footer />
     </main>
   );
