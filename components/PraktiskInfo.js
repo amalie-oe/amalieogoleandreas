@@ -32,7 +32,7 @@ const faqs = [
   },
   {
     q: "Bryllupsgave",
-    a: (<> Det viktigste for oss er at dere kommer og feirer dagen sammen med oss. Vi forventer derfor ingen bryllupsgave, men blir veldig glade for et hyggelig kort ♡ </>),
+    a: (<> Det viktigste for oss er at dere kommer og feirer dagen sammen med oss! Vi forventer derfor ingen bryllupsgave. Skulle dere likevel ønske å gi noe, vil en ønskeliste bli delt her på et senere tidspunkt. </>),
   },
 ];
 
