@@ -1,8 +1,7 @@
 const faqs = [
   {
     q: "Overnatting",
-    a: "Vi har booket hele Hotell Lyngørporten til bryllupshelgen. Egenandelen er 3 200 kr per person og dekker overnatting og frokost for helgen. Betaling gjøres til kontonummer **1208.23.18982** og merkes med navn på personen(e) innbetalingen gjelder for. Mer informasjon om betaling finner du i RSVP-skjemaet, der du også velger om du ønsker overnatting og eventuelt hvor mange netter.
-",
+    a: "Vi har booket hele Hotell Lyngørporten til bryllupshelgen. Egenandelen er 3 200 kr per person og dekker overnatting og frokost for helgen. Betaling gjøres til kontonummer 1208.23.18982 og merkes med navn på personen(e) innbetalingen gjelder for. Mer informasjon om betaling finner du i RSVP-skjemaet, der du også velger om du ønsker overnatting og eventuelt hvor mange netter.",
   },
   {
     q: "Transport",
